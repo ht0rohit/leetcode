@@ -40,5 +40,5 @@ submissions/
 ## Security
 
 - Never commit your session token or CSRF token
-- Credentials are passed via environment variables, not stored in files
-- `submissions/` is gitignored and won't be committed
+- Credentials are passed via environment variables, or a local `.env` file, which is gitignored and never committed
+- Extracted `submissions/` output is tracked in this repository

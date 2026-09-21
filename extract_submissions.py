@@ -33,16 +33,18 @@ GRAPHQL_URL = "https://leetcode.com/graphql/"
 
 def fetch_submissions():
     """Fetch all accepted submissions from LeetCode."""
-    cookies = {"LEETCODE_SESSION": LEETCODE_SESSION}
+    cookies = {"LEETCODE_SESSION": LEETCODE_SESSION, "csrftoken": CSRF_TOKEN}
     headers = {
         "X-CSRFToken": CSRF_TOKEN,
         "Content-Type": "application/json",
         "Referer": "https://leetcode.com/submissions/",
+        "Origin": "https://leetcode.com",
+        "User-Agent": "Mozilla/5.0",
     }
 
     query = """
-    query getSubmissions($offset: Int, $limit: Int, $lastKey: String, $representativeId: Int) {
-        submissionList(offset: $offset, limit: $limit, lastKey: $lastKey, representativeId: $representativeId) {
+    query getSubmissions($offset: Int, $limit: Int, $lastKey: String) {
+        submissionList(offset: $offset, limit: $limit, lastKey: $lastKey) {
             submissions {
                 id
                 statusDisplay
@@ -73,7 +75,6 @@ def fetch_submissions():
             "offset": offset,
             "limit": limit,
             "lastKey": last_key,
-            "representativeId": None
         }
 
         payload = json.dumps({"query": query, "variables": variables})
@@ -109,26 +110,29 @@ def fetch_submissions():
 
 def fetch_submission_code(submission_id):
     """Fetch the code for a specific submission."""
-    cookies = {"LEETCODE_SESSION": LEETCODE_SESSION}
+    cookies = {"LEETCODE_SESSION": LEETCODE_SESSION, "csrftoken": CSRF_TOKEN}
     headers = {
         "X-CSRFToken": CSRF_TOKEN,
         "Content-Type": "application/json",
         "Referer": "https://leetcode.com/submissions/",
+        "Origin": "https://leetcode.com",
+        "User-Agent": "Mozilla/5.0",
     }
 
     query = """
-    query getSubmission($id: ID!) {
-        submission(id: $id) {
+    query submissionDetails($submissionId: Int!) {
+        submissionDetails(submissionId: $submissionId) {
             code
-            lang
-            langName
             timestamp
-            statusDisplay
+            statusCode
             runtime
             memory
-            hasNotes
             notes
             flagType
+            lang {
+                name
+                verboseName
+            }
             question {
                 questionId
                 titleSlug
@@ -140,7 +144,7 @@ def fetch_submission_code(submission_id):
     }
     """
 
-    variables = {"id": submission_id}
+    variables = {"submissionId": int(submission_id)}
     payload = json.dumps({"query": query, "variables": variables})
 
     try:
@@ -153,7 +157,7 @@ def fetch_submission_code(submission_id):
             print(f"Error fetching submission code: {data['errors']}")
             return None
 
-        return data.get("data", {}).get("submission", {})
+        return data.get("data", {}).get("submissionDetails", {})
 
     except Exception as e:
         print(f"Error fetching submission code: {e}")
@@ -191,12 +195,18 @@ def save_submissions(submissions):
 
     accepted_count = 0
     metadata = []
+    seen_slugs = set()
 
     print("\nProcessing submissions...")
 
     for i, submission in enumerate(submissions):
         # Only process accepted submissions
         if submission["statusDisplay"] != "Accepted":
+            continue
+
+        # Submissions are returned newest-first; keep only the most recent
+        # accepted solution per problem.
+        if submission["titleSlug"] in seen_slugs:
             continue
 
         print(f"\n[{i+1}/{len(submissions)}] Processing {submission['title']} ({submission['titleSlug']})...")
@@ -209,7 +219,7 @@ def save_submissions(submissions):
             continue
 
         code = full_submission["code"]
-        lang = full_submission.get("lang", submission.get("lang", "unknown"))
+        lang = full_submission.get("lang", {}).get("name") or submission.get("lang", "unknown")
         ext = get_file_extension(lang)
 
         # Create problem directory
@@ -221,8 +231,10 @@ def save_submissions(submissions):
         code_file = problem_dir / f"solution.{ext}"
         code_file.write_text(code)
 
+        seen_slugs.add(submission["titleSlug"])
+
         # Save metadata
-        timestamp = datetime.fromtimestamp(submission["timestamp"]).isoformat()
+        timestamp = datetime.fromtimestamp(int(submission["timestamp"])).isoformat()
         metadata_entry = {
             "id": submission["id"],
             "title": submission["title"],
