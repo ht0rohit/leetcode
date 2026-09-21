@@ -3,6 +3,7 @@ import requests
 import json
 import os
 import sys
+import time
 from pathlib import Path
 from datetime import datetime
 
@@ -147,21 +148,28 @@ def fetch_submission_code(submission_id):
     variables = {"submissionId": int(submission_id)}
     payload = json.dumps({"query": query, "variables": variables})
 
-    try:
-        response = requests.post(GRAPHQL_URL, data=payload, headers=headers, cookies=cookies, timeout=10)
-        response.raise_for_status()
+    for attempt in range(4):
+        if attempt:
+            time.sleep(2 ** attempt)
 
-        data = response.json()
+        try:
+            response = requests.post(GRAPHQL_URL, data=payload, headers=headers, cookies=cookies, timeout=10)
+            response.raise_for_status()
 
-        if "errors" in data:
-            print(f"Error fetching submission code: {data['errors']}")
-            return None
+            data = response.json()
 
-        return data.get("data", {}).get("submissionDetails", {})
+            if "errors" in data:
+                print(f"Error fetching submission code: {data['errors']}")
+                continue
 
-    except Exception as e:
-        print(f"Error fetching submission code: {e}")
-        return None
+            details = data.get("data", {}).get("submissionDetails")
+            if details:
+                return details
+
+        except Exception as e:
+            print(f"Error fetching submission code: {e}")
+
+    return None
 
 def get_file_extension(lang):
     """Map language to file extension."""
@@ -213,6 +221,7 @@ def save_submissions(submissions):
 
         # Fetch full submission code
         full_submission = fetch_submission_code(submission["id"])
+        time.sleep(0.3)
 
         if not full_submission or not full_submission.get("code"):
             print(f"  Skipped: Could not fetch code")
