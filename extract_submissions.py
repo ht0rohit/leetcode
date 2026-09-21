@@ -6,12 +6,26 @@ import sys
 from pathlib import Path
 from datetime import datetime
 
-# LeetCode API credentials from environment variables
+def load_dotenv(path=".env"):
+    """Load KEY=VALUE pairs from a local .env file into os.environ, if present."""
+    env_path = Path(path)
+    if not env_path.exists():
+        return
+    for line in env_path.read_text().splitlines():
+        line = line.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        key, value = line.split("=", 1)
+        os.environ.setdefault(key.strip(), value.strip())
+
+load_dotenv()
+
+# LeetCode API credentials from environment variables (or .env file)
 LEETCODE_SESSION = os.environ.get("LEETCODE_SESSION")
 CSRF_TOKEN = os.environ.get("CSRF_TOKEN")
 
 if not LEETCODE_SESSION or not CSRF_TOKEN:
-    print("Error: LEETCODE_SESSION and CSRF_TOKEN environment variables must be set")
+    print("Error: LEETCODE_SESSION and CSRF_TOKEN must be set (env vars, or in a local .env file)")
     sys.exit(1)
 
 # API endpoint
