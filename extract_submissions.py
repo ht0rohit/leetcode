@@ -201,6 +201,16 @@ def save_submissions(submissions):
     submissions_dir = Path("submissions")
     submissions_dir.mkdir(exist_ok=True)
 
+    # Resume support: problems already saved from a previous run (present in
+    # metadata.json with their solution file on disk) are not re-fetched.
+    metadata_file = submissions_dir / "metadata.json"
+    existing_metadata = {}
+    if metadata_file.exists():
+        for entry in json.loads(metadata_file.read_text()):
+            problem_dir = submissions_dir / entry["slug"].replace("-", "_")
+            if any(problem_dir.glob("solution.*")):
+                existing_metadata[entry["slug"]] = entry
+
     accepted_count = 0
     metadata = []
     seen_slugs = set()
@@ -215,6 +225,13 @@ def save_submissions(submissions):
         # Submissions are returned newest-first; keep only the most recent
         # accepted solution per problem.
         if submission["titleSlug"] in seen_slugs:
+            continue
+
+        if submission["titleSlug"] in existing_metadata:
+            print(f"\n[{i+1}/{len(submissions)}] Skipping {submission['title']} ({submission['titleSlug']}): already saved")
+            metadata.append(existing_metadata[submission["titleSlug"]])
+            seen_slugs.add(submission["titleSlug"])
+            accepted_count += 1
             continue
 
         print(f"\n[{i+1}/{len(submissions)}] Processing {submission['title']} ({submission['titleSlug']})...")
