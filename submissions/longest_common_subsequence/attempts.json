@@ -1,0 +1,24 @@
+[
+  {
+    "id": "2138276067",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-09-11T06:51:42",
+    "runtime": "364 ms",
+    "memory": "44.5 MB",
+    "file": "longest_common_subsequence/attempts/20260911T065142_accepted_2138276067.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2138307830",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-09-11T07:29:40",
+    "runtime": "247 ms",
+    "memory": "19.3 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "longest_common_subsequence/attempts/20260911T072940_accepted_2138307830.py"
+  }
+]

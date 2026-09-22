@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2120459343",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-08-26T06:25:23",
+    "runtime": "3 ms",
+    "memory": "21.1 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "k_diff_pairs_in_an_array/attempts/20260826T062523_accepted_2120459343.py"
+  }
+]

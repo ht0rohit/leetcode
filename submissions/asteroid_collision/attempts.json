@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2050495844",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-06-29T20:06:30",
+    "runtime": "11 ms",
+    "memory": "20.4 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "asteroid_collision/attempts/20260629T200630_accepted_2050495844.py"
+  }
+]

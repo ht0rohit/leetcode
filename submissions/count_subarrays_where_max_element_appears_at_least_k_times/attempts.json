@@ -1,0 +1,24 @@
+[
+  {
+    "id": "2106520135",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-08-14T11:10:00",
+    "runtime": "112 ms",
+    "memory": "32.3 MB",
+    "file": "count_subarrays_where_max_element_appears_at_least_k_times/attempts/20260814T111000_accepted_2106520135.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2106581764",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-08-14T12:29:07",
+    "runtime": "84 ms",
+    "memory": "31.6 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "count_subarrays_where_max_element_appears_at_least_k_times/attempts/20260814T122907_accepted_2106581764.py"
+  }
+]

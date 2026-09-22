@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2080468704",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-25T08:00:28",
+    "runtime": "4 ms",
+    "memory": "19.2 MB",
+    "difficulty": "Easy",
+    "category": "Algorithms",
+    "file": "maximum_product_of_two_digits/attempts/20260725T080028_accepted_2080468704.py"
+  }
+]

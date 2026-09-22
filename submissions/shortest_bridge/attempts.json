@@ -1,0 +1,46 @@
+[
+  {
+    "id": "2078662638",
+    "status": "Runtime Error",
+    "lang": "python3",
+    "timestamp": "2026-07-23T16:39:13",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "shortest_bridge/attempts/20260723T163913_runtime_error_2078662638.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2078694035",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-23T17:00:51",
+    "runtime": "87 ms",
+    "memory": "21 MB",
+    "file": "shortest_bridge/attempts/20260723T170051_accepted_2078694035.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2078709522",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-23T17:11:31",
+    "runtime": "47 ms",
+    "memory": "20.5 MB",
+    "file": "shortest_bridge/attempts/20260723T171131_accepted_2078709522.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2078715300",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-23T17:15:43",
+    "runtime": "61 ms",
+    "memory": "22.7 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "shortest_bridge/attempts/20260723T171543_accepted_2078715300.py"
+  }
+]

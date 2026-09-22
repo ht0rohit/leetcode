@@ -1,0 +1,24 @@
+[
+  {
+    "id": "2083204864",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-27T10:19:01",
+    "runtime": "0 ms",
+    "memory": "19.8 MB",
+    "file": "maximum_product_of_two_elements_in_an_array/attempts/20260727T101901_accepted_2083204864.py",
+    "difficulty": "Easy",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2083210443",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-27T10:23:48",
+    "runtime": "3 ms",
+    "memory": "19.3 MB",
+    "difficulty": "Easy",
+    "category": "Algorithms",
+    "file": "maximum_product_of_two_elements_in_an_array/attempts/20260727T102348_accepted_2083210443.py"
+  }
+]

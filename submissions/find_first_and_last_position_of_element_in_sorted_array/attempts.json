@@ -1,0 +1,24 @@
+[
+  {
+    "id": "2081657965",
+    "status": "Wrong Answer",
+    "lang": "python3",
+    "timestamp": "2026-07-26T06:39:36",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "find_first_and_last_position_of_element_in_sorted_array/attempts/20260726T063936_wrong_answer_2081657965.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2081666872",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-26T06:46:59",
+    "runtime": "0 ms",
+    "memory": "20.6 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "find_first_and_last_position_of_element_in_sorted_array/attempts/20260726T064659_accepted_2081666872.py"
+  }
+]

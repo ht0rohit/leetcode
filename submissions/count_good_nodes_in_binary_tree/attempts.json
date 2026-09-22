@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2063290686",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-10T20:23:29",
+    "runtime": "133 ms",
+    "memory": "32.1 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "count_good_nodes_in_binary_tree/attempts/20260710T202329_accepted_2063290686.py"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "2088726919",
+    "status": "Wrong Answer",
+    "lang": "python3",
+    "timestamp": "2026-07-31T11:18:18",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "longest_repeating_character_replacement/attempts/20260731T111818_wrong_answer_2088726919.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2088735666",
+    "status": "Wrong Answer",
+    "lang": "python3",
+    "timestamp": "2026-07-31T11:28:28",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "longest_repeating_character_replacement/attempts/20260731T112828_wrong_answer_2088735666.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  }
+]

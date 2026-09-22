@@ -1,0 +1,24 @@
+[
+  {
+    "id": "2095465417",
+    "status": "Wrong Answer",
+    "lang": "python3",
+    "timestamp": "2026-08-05T14:52:10",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "minimum_recolors_to_get_k_consecutive_black_blocks/attempts/20260805T145210_wrong_answer_2095465417.py",
+    "difficulty": "Easy",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2095468183",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-08-05T14:54:27",
+    "runtime": "0 ms",
+    "memory": "19.4 MB",
+    "difficulty": "Easy",
+    "category": "Algorithms",
+    "file": "minimum_recolors_to_get_k_consecutive_black_blocks/attempts/20260805T145427_accepted_2095468183.py"
+  }
+]

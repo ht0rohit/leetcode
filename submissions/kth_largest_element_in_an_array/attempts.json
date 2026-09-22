@@ -1,0 +1,35 @@
+[
+  {
+    "id": "2083217549",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-27T10:30:18",
+    "runtime": "125 ms",
+    "memory": "29.4 MB",
+    "file": "kth_largest_element_in_an_array/attempts/20260727T103018_accepted_2083217549.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2106682448",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-08-14T14:20:27",
+    "runtime": "67 ms",
+    "memory": "30.9 MB",
+    "file": "kth_largest_element_in_an_array/attempts/20260814T142027_accepted_2106682448.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2106688436",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-08-14T14:26:35",
+    "runtime": "34 ms",
+    "memory": "31.1 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "kth_largest_element_in_an_array/attempts/20260814T142635_accepted_2106688436.py"
+  }
+]

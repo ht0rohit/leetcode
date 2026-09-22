@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2061444714",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-09T07:54:51",
+    "runtime": "0 ms",
+    "memory": "19.3 MB",
+    "difficulty": "Easy",
+    "category": "Algorithms",
+    "file": "two_sum_less_than_k/attempts/20260709T075451_accepted_2061444714.py"
+  }
+]

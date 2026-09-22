@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2082208124",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-26T15:19:23",
+    "runtime": "53 ms",
+    "memory": "20.4 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "search_in_a_sorted_array_of_unknown_size/attempts/20260726T151923_accepted_2082208124.py"
+  }
+]

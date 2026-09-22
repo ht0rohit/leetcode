@@ -1,0 +1,46 @@
+[
+  {
+    "id": "2076188629",
+    "status": "Wrong Answer",
+    "lang": "python3",
+    "timestamp": "2026-07-21T17:34:52",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "couples_holding_hands/attempts/20260721T173452_wrong_answer_2076188629.py",
+    "difficulty": "Hard",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2076238230",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-21T18:09:15",
+    "runtime": "2 ms",
+    "memory": "19.1 MB",
+    "file": "couples_holding_hands/attempts/20260721T180915_accepted_2076238230.py",
+    "difficulty": "Hard",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2076733330",
+    "status": "Wrong Answer",
+    "lang": "python3",
+    "timestamp": "2026-07-22T06:38:35",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "couples_holding_hands/attempts/20260722T063835_wrong_answer_2076733330.py",
+    "difficulty": "Hard",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2079479035",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-24T10:56:37",
+    "runtime": "3 ms",
+    "memory": "19.3 MB",
+    "difficulty": "Hard",
+    "category": "Algorithms",
+    "file": "couples_holding_hands/attempts/20260724T105637_accepted_2079479035.py"
+  }
+]

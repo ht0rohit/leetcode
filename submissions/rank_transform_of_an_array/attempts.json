@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2142557016",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-09-15T12:05:13",
+    "runtime": "61 ms",
+    "memory": "37.5 MB",
+    "difficulty": "Easy",
+    "category": "Algorithms",
+    "file": "rank_transform_of_an_array/attempts/20260915T120513_accepted_2142557016.py"
+  }
+]

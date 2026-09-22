@@ -1,0 +1,24 @@
+[
+  {
+    "id": "2112655960",
+    "status": "Wrong Answer",
+    "lang": "python3",
+    "timestamp": "2026-08-19T12:12:02",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "longest_zigzag_path_in_a_binary_tree/attempts/20260819T121202_wrong_answer_2112655960.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2112662195",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-08-19T12:19:22",
+    "runtime": "56 ms",
+    "memory": "37.8 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "longest_zigzag_path_in_a_binary_tree/attempts/20260819T121922_accepted_2112662195.py"
+  }
+]

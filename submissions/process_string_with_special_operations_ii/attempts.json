@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2036027703",
+    "status": "Output Limit Exceeded",
+    "lang": "python3",
+    "timestamp": "2026-06-17T06:58:17",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "process_string_with_special_operations_ii/attempts/20260617T065817_output_limit_exceeded_2036027703.py",
+    "difficulty": "Hard",
+    "category": "Algorithms"
+  }
+]

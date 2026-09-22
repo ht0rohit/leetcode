@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2044185754",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-06-24T05:55:34",
+    "runtime": "0 ms",
+    "memory": "19.2 MB",
+    "difficulty": "Easy",
+    "category": "Algorithms",
+    "file": "count_partitions_with_even_sum_difference/attempts/20260624T055534_accepted_2044185754.py"
+  }
+]

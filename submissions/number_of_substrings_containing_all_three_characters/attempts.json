@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1628798286",
+    "status": "Time Limit Exceeded",
+    "lang": "python3",
+    "timestamp": "2025-05-08T18:11:09",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "number_of_substrings_containing_all_three_characters/attempts/20250508T181109_time_limit_exceeded_1628798286.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "1628809136",
+    "status": "Time Limit Exceeded",
+    "lang": "python3",
+    "timestamp": "2025-05-08T18:26:28",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "number_of_substrings_containing_all_three_characters/attempts/20250508T182628_time_limit_exceeded_1628809136.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2051375196",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-06-30T15:30:48",
+    "runtime": "113 ms",
+    "memory": "19.3 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "number_of_substrings_containing_all_three_characters/attempts/20260630T153048_accepted_2051375196.py"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "2070254653",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-16T17:51:53",
+    "runtime": "3 ms",
+    "memory": "19.4 MB",
+    "file": "rotting_oranges/attempts/20260716T175153_accepted_2070254653.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2070285241",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-16T18:14:20",
+    "runtime": "3 ms",
+    "memory": "19.3 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "rotting_oranges/attempts/20260716T181420_accepted_2070285241.py"
+  }
+]

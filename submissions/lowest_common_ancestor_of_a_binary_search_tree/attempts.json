@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2064727617",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-12T07:29:05",
+    "runtime": "57 ms",
+    "memory": "22.8 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "lowest_common_ancestor_of_a_binary_search_tree/attempts/20260712T072905_accepted_2064727617.py"
+  }
+]

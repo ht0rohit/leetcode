@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2092503758",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-08-03T10:56:12",
+    "runtime": "3 ms",
+    "memory": "20.4 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "two_sum_ii_input_array_is_sorted/attempts/20260803T105612_accepted_2092503758.py"
+  }
+]

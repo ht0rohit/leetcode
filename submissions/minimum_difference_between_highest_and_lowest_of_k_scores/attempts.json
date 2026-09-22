@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2089850195",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-08-01T10:58:52",
+    "runtime": "3 ms",
+    "memory": "19.4 MB",
+    "difficulty": "Easy",
+    "category": "Algorithms",
+    "file": "minimum_difference_between_highest_and_lowest_of_k_scores/attempts/20260801T105852_accepted_2089850195.py"
+  }
+]

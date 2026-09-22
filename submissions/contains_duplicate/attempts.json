@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2023177232",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-06-05T10:28:53",
+    "runtime": "10 ms",
+    "memory": "32.1 MB",
+    "difficulty": "Easy",
+    "category": "Algorithms",
+    "file": "contains_duplicate/attempts/20260605T102853_accepted_2023177232.py"
+  }
+]

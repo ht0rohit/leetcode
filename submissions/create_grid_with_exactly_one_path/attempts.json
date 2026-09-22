@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2040021422",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-06-20T15:52:06",
+    "runtime": "3 ms",
+    "memory": "19.1 MB",
+    "difficulty": "Easy",
+    "category": "Algorithms",
+    "file": "create_grid_with_exactly_one_path/attempts/20260620T155206_accepted_2040021422.py"
+  }
+]

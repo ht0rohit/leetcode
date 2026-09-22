@@ -1,0 +1,57 @@
+[
+  {
+    "id": "2074470719",
+    "status": "Time Limit Exceeded",
+    "lang": "python3",
+    "timestamp": "2026-07-20T10:58:16",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "3sum/attempts/20260720T105816_time_limit_exceeded_2074470719.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2074473234",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-20T11:01:05",
+    "runtime": "778 ms",
+    "memory": "22.5 MB",
+    "file": "3sum/attempts/20260720T110105_accepted_2074473234.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2074877742",
+    "status": "Wrong Answer",
+    "lang": "python3",
+    "timestamp": "2026-07-20T17:10:58",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "3sum/attempts/20260720T171058_wrong_answer_2074877742.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2074882490",
+    "status": "Wrong Answer",
+    "lang": "python3",
+    "timestamp": "2026-07-20T17:14:21",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "3sum/attempts/20260720T171421_wrong_answer_2074882490.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2074897362",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-20T17:24:42",
+    "runtime": "696 ms",
+    "memory": "22.2 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "3sum/attempts/20260720T172442_accepted_2074897362.py"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "2100096802",
+    "status": "Wrong Answer",
+    "lang": "python3",
+    "timestamp": "2026-08-09T08:13:58",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "range_sum_query_2d_immutable/attempts/20260809T081358_wrong_answer_2100096802.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2100105713",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-08-09T08:24:31",
+    "runtime": "105 ms",
+    "memory": "32.2 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "range_sum_query_2d_immutable/attempts/20260809T082431_accepted_2100105713.py"
+  }
+]

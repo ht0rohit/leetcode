@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2061283373",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-09T05:29:50",
+    "runtime": "87 ms",
+    "memory": "49.6 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "path_existence_queries_in_a_graph_i/attempts/20260709T052950_accepted_2061283373.py"
+  }
+]

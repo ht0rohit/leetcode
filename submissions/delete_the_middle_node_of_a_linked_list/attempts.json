@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2033859685",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-06-15T11:12:41",
+    "runtime": "88 ms",
+    "memory": "62.3 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "delete_the_middle_node_of_a_linked_list/attempts/20260615T111241_accepted_2033859685.py"
+  }
+]

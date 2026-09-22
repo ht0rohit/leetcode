@@ -1,0 +1,57 @@
+[
+  {
+    "id": "2053446918",
+    "status": "Wrong Answer",
+    "lang": "python3",
+    "timestamp": "2026-07-02T11:22:48",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "search_in_rotated_sorted_array/attempts/20260702T112248_wrong_answer_2053446918.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2053459940",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-02T11:37:36",
+    "runtime": "0 ms",
+    "memory": "19.4 MB",
+    "file": "search_in_rotated_sorted_array/attempts/20260702T113736_accepted_2053459940.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2081919902",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-26T10:56:29",
+    "runtime": "0 ms",
+    "memory": "19.5 MB",
+    "file": "search_in_rotated_sorted_array/attempts/20260726T105629_accepted_2081919902.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2082095409",
+    "status": "Wrong Answer",
+    "lang": "python3",
+    "timestamp": "2026-07-26T13:42:40",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "search_in_rotated_sorted_array/attempts/20260726T134240_wrong_answer_2082095409.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2082095977",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-26T13:43:09",
+    "runtime": "0 ms",
+    "memory": "19.5 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "search_in_rotated_sorted_array/attempts/20260726T134309_accepted_2082095977.py"
+  }
+]

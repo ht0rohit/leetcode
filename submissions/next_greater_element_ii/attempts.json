@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2129732027",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-09-03T14:52:29",
+    "runtime": "31 ms",
+    "memory": "21.2 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "next_greater_element_ii/attempts/20260903T145229_accepted_2129732027.py"
+  }
+]

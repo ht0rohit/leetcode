@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2125140515",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-08-30T14:41:30",
+    "runtime": "11 ms",
+    "memory": "20.9 MB",
+    "difficulty": "Easy",
+    "category": "Algorithms",
+    "file": "squares_of_a_sorted_array/attempts/20260830T144130_accepted_2125140515.py"
+  }
+]

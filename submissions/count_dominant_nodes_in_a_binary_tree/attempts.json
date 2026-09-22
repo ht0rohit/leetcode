@@ -1,0 +1,24 @@
+[
+  {
+    "id": "2072960779",
+    "status": "Wrong Answer",
+    "lang": "python3",
+    "timestamp": "2026-07-19T03:13:40",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "count_dominant_nodes_in_a_binary_tree/attempts/20260719T031340_wrong_answer_2072960779.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2072966011",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-19T03:17:11",
+    "runtime": "347 ms",
+    "memory": "49.4 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "count_dominant_nodes_in_a_binary_tree/attempts/20260719T031711_accepted_2072966011.py"
+  }
+]

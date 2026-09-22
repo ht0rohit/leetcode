@@ -1,0 +1,35 @@
+[
+  {
+    "id": "2100146753",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-08-09T09:12:15",
+    "runtime": "65 ms",
+    "memory": "20.7 MB",
+    "file": "populating_next_right_pointers_in_each_node/attempts/20260809T091215_accepted_2100146753.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2100168630",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-08-09T09:36:29",
+    "runtime": "54 ms",
+    "memory": "20.5 MB",
+    "file": "populating_next_right_pointers_in_each_node/attempts/20260809T093629_accepted_2100168630.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2112349612",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-08-19T06:48:00",
+    "runtime": "51 ms",
+    "memory": "20.4 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "populating_next_right_pointers_in_each_node/attempts/20260819T064800_accepted_2112349612.py"
+  }
+]

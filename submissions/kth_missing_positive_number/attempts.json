@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2057920032",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-06T10:38:42",
+    "runtime": "0 ms",
+    "memory": "19.2 MB",
+    "difficulty": "Easy",
+    "category": "Algorithms",
+    "file": "kth_missing_positive_number/attempts/20260706T103842_accepted_2057920032.py"
+  }
+]

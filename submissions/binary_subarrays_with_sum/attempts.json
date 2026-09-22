@@ -1,0 +1,24 @@
+[
+  {
+    "id": "2117067968",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-08-23T07:29:17",
+    "runtime": "39 ms",
+    "memory": "20.1 MB",
+    "file": "binary_subarrays_with_sum/attempts/20260823T072917_accepted_2117067968.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2117068291",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-08-23T07:29:39",
+    "runtime": "27 ms",
+    "memory": "20 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "binary_subarrays_with_sum/attempts/20260823T072939_accepted_2117068291.py"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2126102547",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-08-31T12:57:07",
+    "runtime": "0 ms",
+    "memory": "21.8 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "delete_node_in_a_bst/attempts/20260831T125707_accepted_2126102547.py"
+  }
+]

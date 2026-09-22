@@ -1,0 +1,24 @@
+[
+  {
+    "id": "2078552374",
+    "status": "Runtime Error",
+    "lang": "python3",
+    "timestamp": "2026-07-23T15:12:15",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "distance_to_a_cycle_in_undirected_graph/attempts/20260723T151215_runtime_error_2078552374.py",
+    "difficulty": "Hard",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2078566478",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-23T15:24:15",
+    "runtime": "103 ms",
+    "memory": "97.8 MB",
+    "difficulty": "Hard",
+    "category": "Algorithms",
+    "file": "distance_to_a_cycle_in_undirected_graph/attempts/20260723T152415_accepted_2078566478.py"
+  }
+]

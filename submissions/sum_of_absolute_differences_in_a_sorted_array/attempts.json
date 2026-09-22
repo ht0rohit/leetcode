@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2100057890",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-08-09T07:29:49",
+    "runtime": "585 ms",
+    "memory": "35 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "sum_of_absolute_differences_in_a_sorted_array/attempts/20260809T072949_accepted_2100057890.py"
+  }
+]

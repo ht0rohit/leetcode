@@ -1,0 +1,35 @@
+[
+  {
+    "id": "2107754057",
+    "status": "Wrong Answer",
+    "lang": "python3",
+    "timestamp": "2026-08-15T14:28:09",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "minimum_lights_to_illuminate_a_road/attempts/20260815T142809_wrong_answer_2107754057.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2107780047",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-08-15T14:37:50",
+    "runtime": "323 ms",
+    "memory": "39 MB",
+    "file": "minimum_lights_to_illuminate_a_road/attempts/20260815T143750_accepted_2107780047.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2107805872",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-08-15T14:47:38",
+    "runtime": "319 ms",
+    "memory": "31.4 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "minimum_lights_to_illuminate_a_road/attempts/20260815T144738_accepted_2107805872.py"
+  }
+]

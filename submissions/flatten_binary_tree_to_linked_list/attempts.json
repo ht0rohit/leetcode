@@ -1,0 +1,24 @@
+[
+  {
+    "id": "2101742326",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-08-10T15:37:24",
+    "runtime": "0 ms",
+    "memory": "19.6 MB",
+    "file": "flatten_binary_tree_to_linked_list/attempts/20260810T153724_accepted_2101742326.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2112729910",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-08-19T13:29:00",
+    "runtime": "0 ms",
+    "memory": "19.6 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "flatten_binary_tree_to_linked_list/attempts/20260819T132900_accepted_2112729910.py"
+  }
+]

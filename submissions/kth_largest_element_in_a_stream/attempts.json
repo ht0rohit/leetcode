@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2106676573",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-08-14T14:14:29",
+    "runtime": "16 ms",
+    "memory": "25.5 MB",
+    "difficulty": "Easy",
+    "category": "Algorithms",
+    "file": "kth_largest_element_in_a_stream/attempts/20260814T141429_accepted_2106676573.py"
+  }
+]

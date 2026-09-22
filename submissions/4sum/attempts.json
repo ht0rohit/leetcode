@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2074964191",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-20T18:13:30",
+    "runtime": "411 ms",
+    "memory": "19.4 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "4sum/attempts/20260720T181330_accepted_2074964191.py"
+  }
+]

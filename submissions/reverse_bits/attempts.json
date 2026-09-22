@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2130018826",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-09-03T19:00:38",
+    "runtime": "53 ms",
+    "memory": "19.1 MB",
+    "difficulty": "Easy",
+    "category": "Algorithms",
+    "file": "reverse_bits/attempts/20260903T190038_accepted_2130018826.py"
+  }
+]

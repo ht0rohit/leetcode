@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2127105274",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-09-01T10:31:34",
+    "runtime": "63 ms",
+    "memory": "33.6 MB",
+    "difficulty": "Hard",
+    "category": "Algorithms",
+    "file": "count_subarrays_with_majority_element_ii/attempts/20260901T103134_accepted_2127105274.py"
+  }
+]

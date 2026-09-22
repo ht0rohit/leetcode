@@ -1,0 +1,46 @@
+[
+  {
+    "id": "2068446244",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-15T09:58:33",
+    "runtime": "4 ms",
+    "memory": "20.2 MB",
+    "file": "number_of_provinces/attempts/20260715T095833_accepted_2068446244.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2079448729",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-24T10:25:31",
+    "runtime": "14 ms",
+    "memory": "20.5 MB",
+    "file": "number_of_provinces/attempts/20260724T102531_accepted_2079448729.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2079452655",
+    "status": "Wrong Answer",
+    "lang": "python3",
+    "timestamp": "2026-07-24T10:29:16",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "number_of_provinces/attempts/20260724T102916_wrong_answer_2079452655.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2079457162",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-24T10:33:50",
+    "runtime": "10 ms",
+    "memory": "20.5 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "number_of_provinces/attempts/20260724T103350_accepted_2079457162.py"
+  }
+]

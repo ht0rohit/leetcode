@@ -1,0 +1,24 @@
+[
+  {
+    "id": "2074914166",
+    "status": "Wrong Answer",
+    "lang": "python3",
+    "timestamp": "2026-07-20T17:36:33",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "3sum_closest/attempts/20260720T173633_wrong_answer_2074914166.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2074932858",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-20T17:50:07",
+    "runtime": "420 ms",
+    "memory": "19.3 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "3sum_closest/attempts/20260720T175007_accepted_2074932858.py"
+  }
+]

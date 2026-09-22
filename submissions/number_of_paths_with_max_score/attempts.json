@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2056628597",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-05T07:04:01",
+    "runtime": "109 ms",
+    "memory": "20.6 MB",
+    "difficulty": "Hard",
+    "category": "Algorithms",
+    "file": "number_of_paths_with_max_score/attempts/20260705T070401_accepted_2056628597.py"
+  }
+]

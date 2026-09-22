@@ -1,0 +1,57 @@
+[
+  {
+    "id": "2137577847",
+    "status": "Time Limit Exceeded",
+    "lang": "python3",
+    "timestamp": "2026-09-10T14:25:51",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "coin_change_ii/attempts/20260910T142551_time_limit_exceeded_2137577847.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2137582414",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-09-10T14:30:05",
+    "runtime": "1714 ms",
+    "memory": "517 MB",
+    "file": "coin_change_ii/attempts/20260910T143005_accepted_2137582414.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2137588409",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-09-10T14:35:57",
+    "runtime": "822 ms",
+    "memory": "62.6 MB",
+    "file": "coin_change_ii/attempts/20260910T143557_accepted_2137588409.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2137623641",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-09-10T15:10:15",
+    "runtime": "427 ms",
+    "memory": "52.6 MB",
+    "file": "coin_change_ii/attempts/20260910T151015_accepted_2137623641.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2137874288",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-09-10T18:46:01",
+    "runtime": "202 ms",
+    "memory": "19.4 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "coin_change_ii/attempts/20260910T184601_accepted_2137874288.py"
+  }
+]

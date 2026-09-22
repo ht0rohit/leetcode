@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1642485106",
+    "status": "Wrong Answer",
+    "lang": "python3",
+    "timestamp": "2025-05-23T21:07:46",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "check_if_array_is_sorted_and_rotated/attempts/20250523T210746_wrong_answer_1642485106.py",
+    "difficulty": "Easy",
+    "category": "Algorithms"
+  },
+  {
+    "id": "1642486993",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2025-05-23T21:12:38",
+    "runtime": "0 ms",
+    "memory": "17.7 MB",
+    "file": "check_if_array_is_sorted_and_rotated/attempts/20250523T211238_accepted_1642486993.py",
+    "difficulty": "Easy",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2074496223",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-20T11:27:08",
+    "runtime": "0 ms",
+    "memory": "19.2 MB",
+    "difficulty": "Easy",
+    "category": "Algorithms",
+    "file": "check_if_array_is_sorted_and_rotated/attempts/20260720T112708_accepted_2074496223.py"
+  }
+]

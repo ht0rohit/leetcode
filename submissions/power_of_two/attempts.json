@@ -1,0 +1,35 @@
+[
+  {
+    "id": "2130050200",
+    "status": "Wrong Answer",
+    "lang": "python3",
+    "timestamp": "2026-09-03T19:40:29",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "power_of_two/attempts/20260903T194029_wrong_answer_2130050200.py",
+    "difficulty": "Easy",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2130051242",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-09-03T19:41:56",
+    "runtime": "0 ms",
+    "memory": "19.3 MB",
+    "file": "power_of_two/attempts/20260903T194156_accepted_2130051242.py",
+    "difficulty": "Easy",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2130957179",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-09-04T17:14:31",
+    "runtime": "0 ms",
+    "memory": "19.3 MB",
+    "difficulty": "Easy",
+    "category": "Algorithms",
+    "file": "power_of_two/attempts/20260904T171431_accepted_2130957179.py"
+  }
+]

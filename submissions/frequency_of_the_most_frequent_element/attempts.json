@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1643317484",
+    "status": "Wrong Answer",
+    "lang": "python3",
+    "timestamp": "2025-05-24T17:45:52",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "frequency_of_the_most_frequent_element/attempts/20250524T174552_wrong_answer_1643317484.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "1643319757",
+    "status": "Wrong Answer",
+    "lang": "python3",
+    "timestamp": "2025-05-24T17:48:36",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "frequency_of_the_most_frequent_element/attempts/20250524T174836_wrong_answer_1643319757.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2044315603",
+    "status": "Wrong Answer",
+    "lang": "python3",
+    "timestamp": "2026-06-24T07:44:42",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "frequency_of_the_most_frequent_element/attempts/20260624T074442_wrong_answer_2044315603.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2044350828",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-06-24T08:23:18",
+    "runtime": "386 ms",
+    "memory": "30.6 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "frequency_of_the_most_frequent_element/attempts/20260624T082318_accepted_2044350828.py"
+  },
+  {
+    "id": "2093961109",
+    "status": "Time Limit Exceeded",
+    "lang": "python3",
+    "timestamp": "2026-08-04T12:29:48",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "frequency_of_the_most_frequent_element/attempts/20260804T122948_time_limit_exceeded_2093961109.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  }
+]

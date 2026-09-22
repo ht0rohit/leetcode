@@ -1,0 +1,35 @@
+[
+  {
+    "id": "2089253573",
+    "status": "Wrong Answer",
+    "lang": "python3",
+    "timestamp": "2026-07-31T19:41:51",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "longest_word_in_dictionary_through_deleting/attempts/20260731T194151_wrong_answer_2089253573.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2089257585",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-31T19:47:57",
+    "runtime": "135 ms",
+    "memory": "21.2 MB",
+    "file": "longest_word_in_dictionary_through_deleting/attempts/20260731T194757_accepted_2089257585.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2107325828",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-08-15T06:45:23",
+    "runtime": "143 ms",
+    "memory": "21.2 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "longest_word_in_dictionary_through_deleting/attempts/20260815T064523_accepted_2107325828.py"
+  }
+]

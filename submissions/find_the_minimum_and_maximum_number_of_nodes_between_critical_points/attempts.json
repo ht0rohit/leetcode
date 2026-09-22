@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2125788940",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-08-31T06:40:51",
+    "runtime": "74 ms",
+    "memory": "63 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "find_the_minimum_and_maximum_number_of_nodes_between_critical_points/attempts/20260831T064051_accepted_2125788940.py"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "id": "1642506420",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2025-05-23T22:05:56",
+    "runtime": "3 ms",
+    "memory": "17.8 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "reverse_words_in_a_string/attempts/20250523T220556_accepted_1642506420.py"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "2056732335",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-05T09:08:55",
+    "runtime": "3 ms",
+    "memory": "20.7 MB",
+    "file": "triangle/attempts/20260705T090855_accepted_2056732335.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2056736147",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-05T09:14:00",
+    "runtime": "4 ms",
+    "memory": "20.2 MB",
+    "file": "triangle/attempts/20260705T091400_accepted_2056736147.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2143426926",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-09-16T07:48:45",
+    "runtime": "4 ms",
+    "memory": "20.1 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "triangle/attempts/20260916T074845_accepted_2143426926.py"
+  }
+]

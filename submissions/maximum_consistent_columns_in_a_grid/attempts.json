@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2064496036",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-12T03:27:41",
+    "runtime": "1687 ms",
+    "memory": "25.2 MB",
+    "difficulty": "Hard",
+    "category": "Algorithms",
+    "file": "maximum_consistent_columns_in_a_grid/attempts/20260712T032741_accepted_2064496036.py"
+  }
+]

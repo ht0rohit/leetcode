@@ -1,0 +1,24 @@
+[
+  {
+    "id": "2061961959",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-09T16:26:48",
+    "runtime": "0 ms",
+    "memory": "21 MB",
+    "file": "search_in_a_binary_search_tree/attempts/20260709T162648_accepted_2061961959.py",
+    "difficulty": "Easy",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2108717738",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-08-16T07:58:38",
+    "runtime": "0 ms",
+    "memory": "20.9 MB",
+    "difficulty": "Easy",
+    "category": "Algorithms",
+    "file": "search_in_a_binary_search_tree/attempts/20260816T075838_accepted_2108717738.py"
+  }
+]

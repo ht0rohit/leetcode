@@ -1,0 +1,24 @@
+[
+  {
+    "id": "2044150488",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-06-24T05:26:20",
+    "runtime": "7 ms",
+    "memory": "19.6 MB",
+    "file": "left_and_right_sum_differences/attempts/20260624T052620_accepted_2044150488.py",
+    "difficulty": "Easy",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2044181533",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-06-24T05:52:07",
+    "runtime": "8 ms",
+    "memory": "19.5 MB",
+    "difficulty": "Easy",
+    "category": "Algorithms",
+    "file": "left_and_right_sum_differences/attempts/20260624T055207_accepted_2044181533.py"
+  }
+]

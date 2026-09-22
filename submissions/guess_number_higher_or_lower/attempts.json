@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2052607373",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-01T16:53:30",
+    "runtime": "47 ms",
+    "memory": "19.2 MB",
+    "difficulty": "Easy",
+    "category": "Algorithms",
+    "file": "guess_number_higher_or_lower/attempts/20260701T165330_accepted_2052607373.py"
+  }
+]

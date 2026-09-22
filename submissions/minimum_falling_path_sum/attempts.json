@@ -1,0 +1,24 @@
+[
+  {
+    "id": "2056843595",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-05T11:26:09",
+    "runtime": "15 ms",
+    "memory": "20.2 MB",
+    "file": "minimum_falling_path_sum/attempts/20260705T112609_accepted_2056843595.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2056849186",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-05T11:33:01",
+    "runtime": "16 ms",
+    "memory": "20.3 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "minimum_falling_path_sum/attempts/20260705T113301_accepted_2056849186.py"
+  }
+]

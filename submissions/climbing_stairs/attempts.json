@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1642716715",
+    "status": "Wrong Answer",
+    "lang": "python3",
+    "timestamp": "2025-05-24T06:10:19",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "climbing_stairs/attempts/20250524T061019_wrong_answer_1642716715.py",
+    "difficulty": "Easy",
+    "category": "Algorithms"
+  },
+  {
+    "id": "1642750871",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2025-05-24T06:52:58",
+    "runtime": "0 ms",
+    "memory": "17.8 MB",
+    "file": "climbing_stairs/attempts/20250524T065258_accepted_1642750871.py",
+    "difficulty": "Easy",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2031780323",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-06-13T12:49:33",
+    "runtime": "0 ms",
+    "memory": "19.2 MB",
+    "file": "climbing_stairs/attempts/20260613T124933_accepted_2031780323.py",
+    "difficulty": "Easy",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2046944260",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-06-26T15:08:48",
+    "runtime": "0 ms",
+    "memory": "19.2 MB",
+    "difficulty": "Easy",
+    "category": "Algorithms",
+    "file": "climbing_stairs/attempts/20260626T150848_accepted_2046944260.py"
+  }
+]

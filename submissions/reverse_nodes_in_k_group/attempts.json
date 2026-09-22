@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2112408200",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-08-19T07:50:27",
+    "runtime": "3 ms",
+    "memory": "20.2 MB",
+    "difficulty": "Hard",
+    "category": "Algorithms",
+    "file": "reverse_nodes_in_k_group/attempts/20260819T075027_accepted_2112408200.py"
+  }
+]

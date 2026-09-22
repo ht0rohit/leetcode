@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2096630866",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-08-06T12:08:48",
+    "runtime": "7 ms",
+    "memory": "22.5 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "merge_intervals/attempts/20260806T120848_accepted_2096630866.py"
+  }
+]

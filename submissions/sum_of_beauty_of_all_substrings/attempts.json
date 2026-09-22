@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2080881406",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-25T15:05:39",
+    "runtime": "1600 ms",
+    "memory": "19.2 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "sum_of_beauty_of_all_substrings/attempts/20260725T150539_accepted_2080881406.py"
+  }
+]

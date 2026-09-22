@@ -1,0 +1,24 @@
+[
+  {
+    "id": "2141253413",
+    "status": "Wrong Answer",
+    "lang": "python3",
+    "timestamp": "2026-09-14T06:10:08",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "number_of_longest_increasing_subsequence/attempts/20260914T061008_wrong_answer_2141253413.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2141277345",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-09-14T06:37:51",
+    "runtime": "601 ms",
+    "memory": "19.6 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "number_of_longest_increasing_subsequence/attempts/20260914T063751_accepted_2141277345.py"
+  }
+]

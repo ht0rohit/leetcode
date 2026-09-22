@@ -1,0 +1,24 @@
+[
+  {
+    "id": "2145266914",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-09-18T02:27:31",
+    "runtime": "43 ms",
+    "memory": "22.1 MB",
+    "file": "group_anagrams/attempts/20260918T022731_accepted_2145266914.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2147021658",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-09-19T20:15:24",
+    "runtime": "15 ms",
+    "memory": "23.9 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "group_anagrams/attempts/20260919T201524_accepted_2147021658.py"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "2064055361",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-11T16:18:08",
+    "runtime": "38 ms",
+    "memory": "21 MB",
+    "file": "count_the_number_of_complete_components/attempts/20260711T161808_accepted_2064055361.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2066148968",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-13T13:05:54",
+    "runtime": "28 ms",
+    "memory": "19.9 MB",
+    "file": "count_the_number_of_complete_components/attempts/20260713T130554_accepted_2066148968.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2079503237",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-24T11:23:53",
+    "runtime": "71 ms",
+    "memory": "20.7 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "count_the_number_of_complete_components/attempts/20260724T112353_accepted_2079503237.py"
+  }
+]

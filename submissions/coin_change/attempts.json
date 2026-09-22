@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1328519873",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2024-07-21T14:21:16",
+    "runtime": "783 ms",
+    "memory": "16.8 MB",
+    "file": "coin_change/attempts/20240721T142116_accepted_1328519873.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2031874492",
+    "status": "Wrong Answer",
+    "lang": "python3",
+    "timestamp": "2026-06-13T14:47:13",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "coin_change/attempts/20260613T144713_wrong_answer_2031874492.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2046954501",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-06-26T15:20:22",
+    "runtime": "446 ms",
+    "memory": "19.6 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "coin_change/attempts/20260626T152022_accepted_2046954501.py"
+  }
+]

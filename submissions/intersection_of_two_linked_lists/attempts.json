@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2059132017",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-07T10:08:25",
+    "runtime": "118 ms",
+    "memory": "37.9 MB",
+    "difficulty": "Easy",
+    "category": "Algorithms",
+    "file": "intersection_of_two_linked_lists/attempts/20260707T100825_accepted_2059132017.py"
+  }
+]

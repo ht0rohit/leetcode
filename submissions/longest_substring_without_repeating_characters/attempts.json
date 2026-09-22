@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2088494101",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-31T07:53:31",
+    "runtime": "292 ms",
+    "memory": "19.9 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "longest_substring_without_repeating_characters/attempts/20260731T075331_accepted_2088494101.py"
+  }
+]

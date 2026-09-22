@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2101520463",
+    "status": "Restrictions Failed",
+    "lang": "python3",
+    "timestamp": "2026-08-10T12:31:21",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "count_complete_tree_nodes/attempts/20260810T123121_restrictions_failed_2101520463.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  }
+]

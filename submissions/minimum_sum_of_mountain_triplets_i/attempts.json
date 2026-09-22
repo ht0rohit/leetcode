@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2073381640",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-19T11:10:04",
+    "runtime": "75 ms",
+    "memory": "19.1 MB",
+    "difficulty": "Easy",
+    "category": "Algorithms",
+    "file": "minimum_sum_of_mountain_triplets_i/attempts/20260719T111004_accepted_2073381640.py"
+  }
+]

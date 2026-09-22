@@ -1,0 +1,24 @@
+[
+  {
+    "id": "2030572898",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-06-12T08:13:33",
+    "runtime": "10 ms",
+    "memory": "20.6 MB",
+    "file": "jump_game/attempts/20260612T081333_accepted_2030572898.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2030577076",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-06-12T08:18:29",
+    "runtime": "8 ms",
+    "memory": "20.2 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "jump_game/attempts/20260612T081829_accepted_2030577076.py"
+  }
+]

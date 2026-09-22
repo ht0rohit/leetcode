@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1643465967",
+    "status": "Wrong Answer",
+    "lang": "python3",
+    "timestamp": "2025-05-24T21:53:26",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "house_robber_ii/attempts/20250524T215326_wrong_answer_1643465967.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2114813523",
+    "status": "Wrong Answer",
+    "lang": "python3",
+    "timestamp": "2026-08-21T07:58:06",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "house_robber_ii/attempts/20260821T075806_wrong_answer_2114813523.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2114819523",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-08-21T08:06:34",
+    "runtime": "1 ms",
+    "memory": "19.5 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "house_robber_ii/attempts/20260821T080634_accepted_2114819523.py"
+  }
+]

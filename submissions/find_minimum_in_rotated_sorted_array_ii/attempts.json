@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2082123946",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-26T14:06:43",
+    "runtime": "0 ms",
+    "memory": "19.6 MB",
+    "difficulty": "Hard",
+    "category": "Algorithms",
+    "file": "find_minimum_in_rotated_sorted_array_ii/attempts/20260726T140643_accepted_2082123946.py"
+  }
+]

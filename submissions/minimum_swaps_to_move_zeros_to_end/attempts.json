@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2089305628",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-31T21:29:53",
+    "runtime": "3 ms",
+    "memory": "19.3 MB",
+    "difficulty": "Easy",
+    "category": "Algorithms",
+    "file": "minimum_swaps_to_move_zeros_to_end/attempts/20260731T212953_accepted_2089305628.py"
+  }
+]

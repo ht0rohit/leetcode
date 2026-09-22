@@ -1,0 +1,35 @@
+[
+  {
+    "id": "2060510485",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-08T12:49:38",
+    "runtime": "0 ms",
+    "memory": "19.5 MB",
+    "file": "reverse_linked_list_ii/attempts/20260708T124938_accepted_2060510485.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2060516762",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-08T12:55:59",
+    "runtime": "0 ms",
+    "memory": "19.4 MB",
+    "file": "reverse_linked_list_ii/attempts/20260708T125559_accepted_2060516762.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2111589701",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-08-18T15:13:04",
+    "runtime": "0 ms",
+    "memory": "19.5 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "reverse_linked_list_ii/attempts/20260818T151304_accepted_2111589701.py"
+  }
+]

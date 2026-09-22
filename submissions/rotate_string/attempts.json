@@ -1,0 +1,24 @@
+[
+  {
+    "id": "2075395321",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-21T06:06:11",
+    "runtime": "0 ms",
+    "memory": "19.4 MB",
+    "file": "rotate_string/attempts/20260721T060611_accepted_2075395321.py",
+    "difficulty": "Easy",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2075401859",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-21T06:11:10",
+    "runtime": "0 ms",
+    "memory": "19.4 MB",
+    "difficulty": "Easy",
+    "category": "Algorithms",
+    "file": "rotate_string/attempts/20260721T061110_accepted_2075401859.py"
+  }
+]

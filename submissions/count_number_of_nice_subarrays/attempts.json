@@ -1,0 +1,35 @@
+[
+  {
+    "id": "2098895111",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-08-08T09:14:18",
+    "runtime": "130 ms",
+    "memory": "26.2 MB",
+    "file": "count_number_of_nice_subarrays/attempts/20260808T091418_accepted_2098895111.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2100510930",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-08-09T15:25:37",
+    "runtime": "129 ms",
+    "memory": "24.4 MB",
+    "file": "count_number_of_nice_subarrays/attempts/20260809T152537_accepted_2100510930.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2117067777",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-08-23T07:29:04",
+    "runtime": "160 ms",
+    "memory": "23.4 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "count_number_of_nice_subarrays/attempts/20260823T072904_accepted_2117067777.py"
+  }
+]

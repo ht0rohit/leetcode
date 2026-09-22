@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2072337564",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-18T14:40:38",
+    "runtime": "4 ms",
+    "memory": "19.3 MB",
+    "difficulty": "Easy",
+    "category": "Algorithms",
+    "file": "rearrange_string_to_avoid_character_pair/attempts/20260718T144038_accepted_2072337564.py"
+  }
+]

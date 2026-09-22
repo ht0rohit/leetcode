@@ -1,0 +1,24 @@
+[
+  {
+    "id": "2035084949",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-06-16T11:20:41",
+    "runtime": "3 ms",
+    "memory": "19.2 MB",
+    "file": "min_cost_climbing_stairs/attempts/20260616T112041_accepted_2035084949.py",
+    "difficulty": "Easy",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2046939971",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-06-26T15:03:59",
+    "runtime": "0 ms",
+    "memory": "19.2 MB",
+    "difficulty": "Easy",
+    "category": "Algorithms",
+    "file": "min_cost_climbing_stairs/attempts/20260626T150359_accepted_2046939971.py"
+  }
+]

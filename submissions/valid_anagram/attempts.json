@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1624228058",
+    "status": "Wrong Answer",
+    "lang": "python3",
+    "timestamp": "2025-05-03T08:14:36",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "valid_anagram/attempts/20250503T081436_wrong_answer_1624228058.py",
+    "difficulty": "Easy",
+    "category": "Algorithms"
+  },
+  {
+    "id": "1624231104",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2025-05-03T08:19:40",
+    "runtime": "912 ms",
+    "memory": "18.2 MB",
+    "file": "valid_anagram/attempts/20250503T081940_accepted_1624231104.py",
+    "difficulty": "Easy",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2041770563",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-06-22T06:40:59",
+    "runtime": "15 ms",
+    "memory": "19 MB",
+    "difficulty": "Easy",
+    "category": "Algorithms",
+    "file": "valid_anagram/attempts/20260622T064059_accepted_2041770563.py"
+  }
+]

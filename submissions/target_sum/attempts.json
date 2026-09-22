@@ -1,0 +1,46 @@
+[
+  {
+    "id": "2137914174",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-09-10T19:36:52",
+    "runtime": "150 ms",
+    "memory": "79.7 MB",
+    "file": "target_sum/attempts/20260910T193652_accepted_2137914174.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2137925176",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-09-10T19:54:09",
+    "runtime": "119 ms",
+    "memory": "39.9 MB",
+    "file": "target_sum/attempts/20260910T195409_accepted_2137925176.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2137943512",
+    "status": "Runtime Error",
+    "lang": "python3",
+    "timestamp": "2026-09-10T20:27:46",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "target_sum/attempts/20260910T202746_runtime_error_2137943512.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2137944254",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-09-10T20:29:13",
+    "runtime": "368 ms",
+    "memory": "19.4 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "target_sum/attempts/20260910T202913_accepted_2137944254.py"
+  }
+]

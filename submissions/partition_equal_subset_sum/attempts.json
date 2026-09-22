@@ -1,0 +1,57 @@
+[
+  {
+    "id": "2136662567",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-09-09T17:30:19",
+    "runtime": "657 ms",
+    "memory": "204.7 MB",
+    "file": "partition_equal_subset_sum/attempts/20260909T173019_accepted_2136662567.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2137343621",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-09-10T09:57:20",
+    "runtime": "569 ms",
+    "memory": "171 MB",
+    "file": "partition_equal_subset_sum/attempts/20260910T095720_accepted_2137343621.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2137364182",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-09-10T10:19:13",
+    "runtime": "1714 ms",
+    "memory": "34.9 MB",
+    "file": "partition_equal_subset_sum/attempts/20260910T101913_accepted_2137364182.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2137367337",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-09-10T10:22:27",
+    "runtime": "1159 ms",
+    "memory": "19.2 MB",
+    "file": "partition_equal_subset_sum/attempts/20260910T102227_accepted_2137367337.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2137371756",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-09-10T10:26:57",
+    "runtime": "1015 ms",
+    "memory": "19.5 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "partition_equal_subset_sum/attempts/20260910T102657_accepted_2137371756.py"
+  }
+]

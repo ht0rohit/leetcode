@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2056376853",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-05T02:52:01",
+    "runtime": "247 ms",
+    "memory": "20.1 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "subsequence_after_one_replacement/attempts/20260705T025201_accepted_2056376853.py"
+  }
+]

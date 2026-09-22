@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2078353064",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-23T12:06:23",
+    "runtime": "0 ms",
+    "memory": "19.5 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "binary_search_tree_to_greater_sum_tree/attempts/20260723T120623_accepted_2078353064.py"
+  }
+]

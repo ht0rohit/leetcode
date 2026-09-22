@@ -1,0 +1,24 @@
+[
+  {
+    "id": "2096912098",
+    "status": "Wrong Answer",
+    "lang": "python3",
+    "timestamp": "2026-08-06T15:54:26",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "maximum_level_sum_of_a_binary_tree/attempts/20260806T155426_wrong_answer_2096912098.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2096916485",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-08-06T15:57:38",
+    "runtime": "24 ms",
+    "memory": "23.1 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "maximum_level_sum_of_a_binary_tree/attempts/20260806T155738_accepted_2096916485.py"
+  }
+]

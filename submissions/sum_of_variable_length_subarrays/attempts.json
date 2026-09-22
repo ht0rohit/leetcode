@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2044158568",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-06-24T05:32:58",
+    "runtime": "7 ms",
+    "memory": "19.2 MB",
+    "difficulty": "Easy",
+    "category": "Algorithms",
+    "file": "sum_of_variable_length_subarrays/attempts/20260624T053258_accepted_2044158568.py"
+  }
+]

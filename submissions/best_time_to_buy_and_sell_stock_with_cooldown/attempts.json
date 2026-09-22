@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2127100251",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-09-01T10:25:59",
+    "runtime": "0 ms",
+    "memory": "19.4 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "best_time_to_buy_and_sell_stock_with_cooldown/attempts/20260901T102559_accepted_2127100251.py"
+  }
+]

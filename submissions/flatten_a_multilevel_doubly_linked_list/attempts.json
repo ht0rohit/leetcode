@@ -1,0 +1,24 @@
+[
+  {
+    "id": "2112813707",
+    "status": "Runtime Error",
+    "lang": "python3",
+    "timestamp": "2026-08-19T14:40:39",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "flatten_a_multilevel_doubly_linked_list/attempts/20260819T144039_runtime_error_2112813707.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2112820799",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-08-19T14:46:54",
+    "runtime": "46 ms",
+    "memory": "19.9 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "flatten_a_multilevel_doubly_linked_list/attempts/20260819T144654_accepted_2112820799.py"
+  }
+]

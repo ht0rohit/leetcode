@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1642909726",
+    "status": "Runtime Error",
+    "lang": "python3",
+    "timestamp": "2025-05-24T10:33:50",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "remove_duplicates_from_sorted_array/attempts/20250524T103350_runtime_error_1642909726.py",
+    "difficulty": "Easy",
+    "category": "Algorithms"
+  },
+  {
+    "id": "1642918630",
+    "status": "Wrong Answer",
+    "lang": "python3",
+    "timestamp": "2025-05-24T10:46:22",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "remove_duplicates_from_sorted_array/attempts/20250524T104622_wrong_answer_1642918630.py",
+    "difficulty": "Easy",
+    "category": "Algorithms"
+  },
+  {
+    "id": "1642920774",
+    "status": "Wrong Answer",
+    "lang": "python3",
+    "timestamp": "2025-05-24T10:49:23",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "remove_duplicates_from_sorted_array/attempts/20250524T104923_wrong_answer_1642920774.py",
+    "difficulty": "Easy",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2073747759",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-19T17:25:58",
+    "runtime": "3 ms",
+    "memory": "20.4 MB",
+    "difficulty": "Easy",
+    "category": "Algorithms",
+    "file": "remove_duplicates_from_sorted_array/attempts/20260719T172558_accepted_2073747759.py"
+  }
+]

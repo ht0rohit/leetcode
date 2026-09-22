@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2065973014",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-13T09:57:45",
+    "runtime": "4 ms",
+    "memory": "23.9 MB",
+    "difficulty": "Hard",
+    "category": "Algorithms",
+    "file": "binary_tree_maximum_path_sum/attempts/20260713T095745_accepted_2065973014.py"
+  }
+]

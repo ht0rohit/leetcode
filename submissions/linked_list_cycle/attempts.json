@@ -1,0 +1,46 @@
+[
+  {
+    "id": "2033983721",
+    "status": "Memory Limit Exceeded",
+    "lang": "python3",
+    "timestamp": "2026-06-15T13:32:22",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "linked_list_cycle/attempts/20260615T133222_memory_limit_exceeded_2033983721.py",
+    "difficulty": "Easy",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2033993608",
+    "status": "Wrong Answer",
+    "lang": "python3",
+    "timestamp": "2026-06-15T13:42:52",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "linked_list_cycle/attempts/20260615T134252_wrong_answer_2033993608.py",
+    "difficulty": "Easy",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2034867152",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-06-16T07:59:08",
+    "runtime": "47 ms",
+    "memory": "22.8 MB",
+    "file": "linked_list_cycle/attempts/20260616T075908_accepted_2034867152.py",
+    "difficulty": "Easy",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2075770162",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-21T11:59:37",
+    "runtime": "54 ms",
+    "memory": "22.4 MB",
+    "difficulty": "Easy",
+    "category": "Algorithms",
+    "file": "linked_list_cycle/attempts/20260721T115937_accepted_2075770162.py"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2097050169",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-08-06T17:25:05",
+    "runtime": "0 ms",
+    "memory": "19.4 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "binary_tree_zigzag_level_order_traversal/attempts/20260806T172505_accepted_2097050169.py"
+  }
+]

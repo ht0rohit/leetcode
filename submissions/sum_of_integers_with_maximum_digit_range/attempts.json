@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2056357915",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-05T02:41:27",
+    "runtime": "4 ms",
+    "memory": "19.4 MB",
+    "difficulty": "Easy",
+    "category": "Algorithms",
+    "file": "sum_of_integers_with_maximum_digit_range/attempts/20260705T024127_accepted_2056357915.py"
+  }
+]

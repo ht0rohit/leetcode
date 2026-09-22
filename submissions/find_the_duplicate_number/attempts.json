@@ -1,0 +1,24 @@
+[
+  {
+    "id": "2075759843",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-21T11:47:51",
+    "runtime": "77 ms",
+    "memory": "33.2 MB",
+    "file": "find_the_duplicate_number/attempts/20260721T114751_accepted_2075759843.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2075785416",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-21T12:16:42",
+    "runtime": "27 ms",
+    "memory": "33.5 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "find_the_duplicate_number/attempts/20260721T121642_accepted_2075785416.py"
+  }
+]

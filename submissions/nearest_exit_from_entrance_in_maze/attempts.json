@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2070346384",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-16T19:13:55",
+    "runtime": "91 ms",
+    "memory": "20.8 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "nearest_exit_from_entrance_in_maze/attempts/20260716T191355_accepted_2070346384.py"
+  }
+]

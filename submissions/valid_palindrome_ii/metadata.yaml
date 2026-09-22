@@ -17,5 +17,11 @@ runtime: 67 ms
 memory: 22.1 MB
 initial_approach: UNKNOWN
 historical_mistakes: UNKNOWN
-debugging_history: UNKNOWN
+debugging_history:
+- timestamp: '2026-06-10T15:42:23'
+  status: Wrong Answer
+- timestamp: '2026-07-17T09:57:12'
+  status: Accepted
+- timestamp: '2026-08-07T15:01:49'
+  status: Wrong Answer
 hints_used: UNKNOWN

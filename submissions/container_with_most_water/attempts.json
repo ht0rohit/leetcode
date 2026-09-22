@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2037791064",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-06-18T16:26:10",
+    "runtime": "55 ms",
+    "memory": "29.9 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "container_with_most_water/attempts/20260618T162610_accepted_2037791064.py"
+  }
+]

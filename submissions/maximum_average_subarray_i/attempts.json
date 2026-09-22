@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2088821843",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-31T13:09:29",
+    "runtime": "238 ms",
+    "memory": "29 MB",
+    "difficulty": "Easy",
+    "category": "Algorithms",
+    "file": "maximum_average_subarray_i/attempts/20260731T130929_accepted_2088821843.py"
+  }
+]

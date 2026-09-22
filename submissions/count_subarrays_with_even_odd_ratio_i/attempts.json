@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2090737298",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-08-02T03:03:10",
+    "runtime": "1723 ms",
+    "memory": "19.6 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "count_subarrays_with_even_odd_ratio_i/attempts/20260802T030310_accepted_2090737298.py"
+  }
+]

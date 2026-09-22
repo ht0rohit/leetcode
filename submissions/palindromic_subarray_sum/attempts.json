@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2056453811",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-05T03:37:33",
+    "runtime": "1002 ms",
+    "memory": "37.3 MB",
+    "difficulty": "Hard",
+    "category": "Algorithms",
+    "file": "palindromic_subarray_sum/attempts/20260705T033733_accepted_2056453811.py"
+  }
+]

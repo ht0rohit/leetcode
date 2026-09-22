@@ -1,0 +1,24 @@
+[
+  {
+    "id": "2090733405",
+    "status": "Wrong Answer",
+    "lang": "python3",
+    "timestamp": "2026-08-02T03:01:20",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "maximize_pair_strength_using_gcd/attempts/20260802T030120_wrong_answer_2090733405.py",
+    "difficulty": "Easy",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2090734745",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-08-02T03:01:57",
+    "runtime": "3962 ms",
+    "memory": "19.5 MB",
+    "difficulty": "Easy",
+    "category": "Algorithms",
+    "file": "maximize_pair_strength_using_gcd/attempts/20260802T030157_accepted_2090734745.py"
+  }
+]

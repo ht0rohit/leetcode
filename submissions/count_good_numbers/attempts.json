@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2105302249",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-08-13T10:29:06",
+    "runtime": "2 ms",
+    "memory": "19.4 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "count_good_numbers/attempts/20260813T102906_accepted_2105302249.py"
+  }
+]

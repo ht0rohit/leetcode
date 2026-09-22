@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2127062010",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-09-01T09:45:14",
+    "runtime": "130 ms",
+    "memory": "24.4 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "minimum_swaps_to_group_all_1s_together_ii/attempts/20260901T094514_accepted_2127062010.py"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2088001641",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-30T19:30:17",
+    "runtime": "76 ms",
+    "memory": "24.6 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "find_right_interval/attempts/20260730T193017_accepted_2088001641.py"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "2048185422",
+    "status": "Wrong Answer",
+    "lang": "python3",
+    "timestamp": "2026-06-27T18:50:47",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "minimum_cost_for_tickets/attempts/20260627T185047_wrong_answer_2048185422.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2048193337",
+    "status": "Wrong Answer",
+    "lang": "python3",
+    "timestamp": "2026-06-27T19:01:15",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "minimum_cost_for_tickets/attempts/20260627T190115_wrong_answer_2048193337.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2056879587",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-05T12:10:08",
+    "runtime": "3 ms",
+    "memory": "19.4 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "minimum_cost_for_tickets/attempts/20260705T121008_accepted_2056879587.py"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "2057942131",
+    "status": "Wrong Answer",
+    "lang": "python3",
+    "timestamp": "2026-07-06T11:01:11",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "find_the_town_judge/attempts/20260706T110111_wrong_answer_2057942131.py",
+    "difficulty": "Easy",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2057949948",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-06T11:09:39",
+    "runtime": "7 ms",
+    "memory": "22.6 MB",
+    "difficulty": "Easy",
+    "category": "Algorithms",
+    "file": "find_the_town_judge/attempts/20260706T110939_accepted_2057949948.py"
+  }
+]

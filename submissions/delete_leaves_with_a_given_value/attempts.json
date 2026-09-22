@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2068412262",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-07-15T09:28:18",
+    "runtime": "7 ms",
+    "memory": "19.8 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "delete_leaves_with_a_given_value/attempts/20260715T092818_accepted_2068412262.py"
+  }
+]

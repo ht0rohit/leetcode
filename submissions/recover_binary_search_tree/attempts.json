@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2122927942",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-08-28T13:52:19",
+    "runtime": "0 ms",
+    "memory": "20.2 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "recover_binary_search_tree/attempts/20260828T135219_accepted_2122927942.py"
+  }
+]

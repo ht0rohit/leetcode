@@ -1,0 +1,46 @@
+[
+  {
+    "id": "2090969986",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-08-02T06:17:24",
+    "runtime": "0 ms",
+    "memory": "19.2 MB",
+    "file": "stone_game/attempts/20260802T061724_accepted_2090969986.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2132056210",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-09-05T18:26:27",
+    "runtime": "395 ms",
+    "memory": "137.6 MB",
+    "file": "stone_game/attempts/20260905T182627_accepted_2132056210.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2132690904",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-09-06T09:43:53",
+    "runtime": "246 ms",
+    "memory": "53 MB",
+    "file": "stone_game/attempts/20260906T094353_accepted_2132690904.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2132691587",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-09-06T09:44:43",
+    "runtime": "95 ms",
+    "memory": "25.4 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "stone_game/attempts/20260906T094443_accepted_2132691587.py"
+  }
+]

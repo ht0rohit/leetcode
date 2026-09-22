@@ -1,0 +1,24 @@
+[
+  {
+    "id": "2117076173",
+    "status": "Time Limit Exceeded",
+    "lang": "python3",
+    "timestamp": "2026-08-23T07:38:37",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "rearrange_array_elements_by_sign/attempts/20260823T073837_time_limit_exceeded_2117076173.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2117084130",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-08-23T07:48:16",
+    "runtime": "49 ms",
+    "memory": "42.7 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "rearrange_array_elements_by_sign/attempts/20260823T074816_accepted_2117084130.py"
+  }
+]

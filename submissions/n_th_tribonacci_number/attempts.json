@@ -1,0 +1,24 @@
+[
+  {
+    "id": "2035106460",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-06-16T11:43:19",
+    "runtime": "0 ms",
+    "memory": "19.4 MB",
+    "file": "n_th_tribonacci_number/attempts/20260616T114319_accepted_2035106460.py",
+    "difficulty": "Easy",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2046786991",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-06-26T12:01:05",
+    "runtime": "0 ms",
+    "memory": "19.2 MB",
+    "difficulty": "Easy",
+    "category": "Algorithms",
+    "file": "n_th_tribonacci_number/attempts/20260626T120105_accepted_2046786991.py"
+  }
+]

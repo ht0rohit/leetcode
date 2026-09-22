@@ -1,0 +1,35 @@
+[
+  {
+    "id": "2100068676",
+    "status": "Wrong Answer",
+    "lang": "python3",
+    "timestamp": "2026-08-09T07:41:42",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "brightest_position_on_street/attempts/20260809T074142_wrong_answer_2100068676.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2100072456",
+    "status": "Memory Limit Exceeded",
+    "lang": "python3",
+    "timestamp": "2026-08-09T07:46:02",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "brightest_position_on_street/attempts/20260809T074602_memory_limit_exceeded_2100072456.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2133865670",
+    "status": "Memory Limit Exceeded",
+    "lang": "python3",
+    "timestamp": "2026-09-07T12:25:22",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "brightest_position_on_street/attempts/20260907T122522_memory_limit_exceeded_2133865670.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  }
+]

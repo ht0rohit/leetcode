@@ -1,0 +1,24 @@
+[
+  {
+    "id": "2037324210",
+    "status": "Runtime Error",
+    "lang": "python3",
+    "timestamp": "2026-06-18T08:42:37",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "file": "evaluate_reverse_polish_notation/attempts/20260618T084237_runtime_error_2037324210.py",
+    "difficulty": "Medium",
+    "category": "Algorithms"
+  },
+  {
+    "id": "2037326884",
+    "status": "Accepted",
+    "lang": "python3",
+    "timestamp": "2026-06-18T08:45:03",
+    "runtime": "0 ms",
+    "memory": "20.8 MB",
+    "difficulty": "Medium",
+    "category": "Algorithms",
+    "file": "evaluate_reverse_polish_notation/attempts/20260618T084503_accepted_2037326884.py"
+  }
+]
