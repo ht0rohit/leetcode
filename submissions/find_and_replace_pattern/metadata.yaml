@@ -1,0 +1,21 @@
+id: '2075438108'
+title: Find and Replace Pattern
+slug: find-and-replace-pattern
+url: https://leetcode.com/problems/find-and-replace-pattern/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-21T06:39:45'
+runtime: 0 ms
+memory: 19.5 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

@@ -1,0 +1,21 @@
+id: '1643253267'
+title: Binary Search
+slug: binary-search
+url: https://leetcode.com/problems/binary-search/
+difficulty: Easy
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2025-05-24T16:30:21'
+runtime: 0 ms
+memory: 18.6 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

@@ -1,0 +1,21 @@
+id: '2110564775'
+title: Count Primes
+slug: count-primes
+url: https://leetcode.com/problems/count-primes/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-17T18:33:45'
+runtime: 9754 ms
+memory: 86.2 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

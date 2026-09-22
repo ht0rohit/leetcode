@@ -1,0 +1,22 @@
+id: '2084829866'
+title: Pacific Atlantic Water Flow
+slug: pacific-atlantic-water-flow
+url: https://leetcode.com/problems/pacific-atlantic-water-flow/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- BFS / Graph Traversal
+- Hash Map / Set
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-28T13:49:43'
+runtime: 30 ms
+memory: 20.7 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

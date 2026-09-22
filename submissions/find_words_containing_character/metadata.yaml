@@ -1,0 +1,21 @@
+id: '1643033073'
+title: Find Words Containing Character
+slug: find-words-containing-character
+url: https://leetcode.com/problems/find-words-containing-character/
+difficulty: Easy
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2025-05-24T13:30:12'
+runtime: 0 ms
+memory: 17.8 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

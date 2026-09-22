@@ -1,0 +1,21 @@
+id: '2105295644'
+title: Palindrome Number
+slug: palindrome-number
+url: https://leetcode.com/problems/palindrome-number/
+difficulty: Easy
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-13T10:22:25'
+runtime: 15 ms
+memory: 19.2 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

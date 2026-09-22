@@ -1,0 +1,22 @@
+id: '2087074704'
+title: Maximal Network Rank
+slug: maximal-network-rank
+url: https://leetcode.com/problems/maximal-network-rank/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Graph
+- Hash Map / Set
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-30T06:32:41'
+runtime: 20 ms
+memory: 20.6 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

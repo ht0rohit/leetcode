@@ -1,0 +1,21 @@
+id: '2048497063'
+title: Filter Occupied Intervals
+slug: filter-occupied-intervals
+url: https://leetcode.com/problems/filter-occupied-intervals/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-06-28T03:52:28'
+runtime: 215 ms
+memory: 40.1 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

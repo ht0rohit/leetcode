@@ -1,0 +1,21 @@
+id: '2096630866'
+title: Merge Intervals
+slug: merge-intervals
+url: https://leetcode.com/problems/merge-intervals/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-06T12:08:48'
+runtime: 7 ms
+memory: 22.5 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

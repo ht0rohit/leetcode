@@ -1,0 +1,22 @@
+id: '2070369310'
+title: 01 Matrix
+slug: 01-matrix
+url: https://leetcode.com/problems/01-matrix/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Dynamic Programming
+- BFS / Graph Traversal
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-16T19:46:34'
+runtime: 102 ms
+memory: 22 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

@@ -1,0 +1,21 @@
+id: '2106735658'
+title: Top K Frequent Elements
+slug: top-k-frequent-elements
+url: https://leetcode.com/problems/top-k-frequent-elements/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Hash Map / Set
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-14T15:16:27'
+runtime: 11 ms
+memory: 24.7 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

@@ -1,0 +1,21 @@
+id: '2107325828'
+title: Longest Word in Dictionary through Deleting
+slug: longest-word-in-dictionary-through-deleting
+url: https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-15T06:45:23'
+runtime: 143 ms
+memory: 21.2 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

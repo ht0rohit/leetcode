@@ -1,0 +1,21 @@
+id: '2101712340'
+title: Insert Greatest Common Divisors in Linked List
+slug: insert-greatest-common-divisors-in-linked-list
+url: https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Linked List
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-10T15:13:50'
+runtime: 10 ms
+memory: 22.9 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

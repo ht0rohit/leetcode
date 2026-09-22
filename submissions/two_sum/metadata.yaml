@@ -1,0 +1,21 @@
+id: '2028190669'
+title: Two Sum
+slug: two-sum
+url: https://leetcode.com/problems/two-sum/
+difficulty: Easy
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-06-10T05:10:50'
+runtime: 3 ms
+memory: 20.4 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

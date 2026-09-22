@@ -1,0 +1,21 @@
+id: '2074560073'
+title: Search a 2D Matrix II
+slug: search-a-2d-matrix-ii
+url: https://leetcode.com/problems/search-a-2d-matrix-ii/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-20T12:44:14'
+runtime: 135 ms
+memory: 25.6 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

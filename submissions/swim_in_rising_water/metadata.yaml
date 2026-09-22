@@ -1,0 +1,21 @@
+id: '2128359935'
+title: Swim in Rising Water
+slug: swim-in-rising-water
+url: https://leetcode.com/problems/swim-in-rising-water/
+difficulty: Hard
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Heap / Priority Queue
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-09-02T11:19:26'
+runtime: 24 ms
+memory: 19.9 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

@@ -1,0 +1,22 @@
+id: '2127110242'
+title: Two Sum IV - Input is a BST
+slug: two-sum-iv-input-is-a-bst
+url: https://leetcode.com/problems/two-sum-iv-input-is-a-bst/
+difficulty: Easy
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Tree / Binary Tree
+- Hash Map / Set
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-09-01T10:37:21'
+runtime: 8 ms
+memory: 22.6 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

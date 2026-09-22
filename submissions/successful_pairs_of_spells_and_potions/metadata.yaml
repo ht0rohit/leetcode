@@ -1,0 +1,21 @@
+id: '2085809094'
+title: Successful Pairs of Spells and Potions
+slug: successful-pairs-of-spells-and-potions
+url: https://leetcode.com/problems/successful-pairs-of-spells-and-potions/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-29T08:10:15'
+runtime: 589 ms
+memory: 45.6 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

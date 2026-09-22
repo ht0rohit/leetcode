@@ -1,0 +1,21 @@
+id: '2074496223'
+title: Check if Array Is Sorted and Rotated
+slug: check-if-array-is-sorted-and-rotated
+url: https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
+difficulty: Easy
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-20T11:27:08'
+runtime: 0 ms
+memory: 19.2 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

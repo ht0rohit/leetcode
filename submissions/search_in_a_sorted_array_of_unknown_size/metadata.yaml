@@ -1,0 +1,21 @@
+id: '2082208124'
+title: Search in a Sorted Array of Unknown Size
+slug: search-in-a-sorted-array-of-unknown-size
+url: https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-26T15:19:23'
+runtime: 53 ms
+memory: 20.4 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

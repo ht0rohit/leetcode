@@ -1,0 +1,21 @@
+id: '2138313151'
+title: Edit Distance
+slug: edit-distance
+url: https://leetcode.com/problems/edit-distance/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Dynamic Programming
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-09-11T07:37:17'
+runtime: 35 ms
+memory: 19.3 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

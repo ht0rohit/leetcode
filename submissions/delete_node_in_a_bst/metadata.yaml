@@ -1,0 +1,21 @@
+id: '2126102547'
+title: Delete Node in a BST
+slug: delete-node-in-a-bst
+url: https://leetcode.com/problems/delete-node-in-a-bst/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Tree / Binary Tree
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-31T12:57:07'
+runtime: 0 ms
+memory: 21.8 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

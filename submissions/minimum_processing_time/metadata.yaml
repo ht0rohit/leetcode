@@ -1,0 +1,21 @@
+id: '1709694885'
+title: Minimum Processing Time
+slug: minimum-processing-time
+url: https://leetcode.com/problems/minimum-processing-time/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2025-07-24T12:43:28'
+runtime: 53 ms
+memory: 33.9 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

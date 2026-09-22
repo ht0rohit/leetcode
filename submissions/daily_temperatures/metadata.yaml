@@ -1,0 +1,21 @@
+id: '2050428852'
+title: Daily Temperatures
+slug: daily-temperatures
+url: https://leetcode.com/problems/daily-temperatures/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-06-29T18:29:00'
+runtime: 100 ms
+memory: 28.1 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

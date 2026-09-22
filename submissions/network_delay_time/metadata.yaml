@@ -1,0 +1,22 @@
+id: '2128981847'
+title: Network Delay Time
+slug: network-delay-time
+url: https://leetcode.com/problems/network-delay-time/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Heap / Priority Queue
+- Graph
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-09-02T21:49:16'
+runtime: 323 ms
+memory: 21.2 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

@@ -1,0 +1,21 @@
+id: '2122939646'
+title: Validate Binary Search Tree
+slug: validate-binary-search-tree
+url: https://leetcode.com/problems/validate-binary-search-tree/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Tree / Binary Tree
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-28T14:05:58'
+runtime: 0 ms
+memory: 20.9 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

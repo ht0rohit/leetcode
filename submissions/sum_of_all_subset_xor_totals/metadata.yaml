@@ -1,0 +1,21 @@
+id: '2085030354'
+title: Sum of All Subset XOR Totals
+slug: sum-of-all-subset-xor-totals
+url: https://leetcode.com/problems/sum-of-all-subset-xor-totals/
+difficulty: Easy
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-28T16:18:12'
+runtime: 11 ms
+memory: 19.6 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

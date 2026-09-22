@@ -1,0 +1,21 @@
+id: '2125788940'
+title: Find the Minimum and Maximum Number of Nodes Between Critical Points
+slug: find-the-minimum-and-maximum-number-of-nodes-between-critical-points
+url: https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Linked List
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-31T06:40:51'
+runtime: 74 ms
+memory: 63 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

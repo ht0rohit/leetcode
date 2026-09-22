@@ -1,0 +1,21 @@
+id: '2050452645'
+title: Min Stack
+slug: min-stack
+url: https://leetcode.com/problems/min-stack/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-06-29T18:57:46'
+runtime: 79 ms
+memory: 33 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

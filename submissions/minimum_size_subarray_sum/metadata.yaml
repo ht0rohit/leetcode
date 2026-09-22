@@ -1,0 +1,21 @@
+id: '2093166876'
+title: Minimum Size Subarray Sum
+slug: minimum-size-subarray-sum
+url: https://leetcode.com/problems/minimum-size-subarray-sum/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-03T19:47:36'
+runtime: 23 ms
+memory: 30.5 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

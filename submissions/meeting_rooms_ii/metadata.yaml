@@ -1,0 +1,21 @@
+id: '2096583512'
+title: Meeting Rooms II
+slug: meeting-rooms-ii
+url: https://leetcode.com/problems/meeting-rooms-ii/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-06T11:19:23'
+runtime: 5 ms
+memory: 21.3 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

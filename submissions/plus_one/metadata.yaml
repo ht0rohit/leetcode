@@ -1,0 +1,21 @@
+id: '2105299245'
+title: Plus One
+slug: plus-one
+url: https://leetcode.com/problems/plus-one/
+difficulty: Easy
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-13T10:25:58'
+runtime: 0 ms
+memory: 19.3 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

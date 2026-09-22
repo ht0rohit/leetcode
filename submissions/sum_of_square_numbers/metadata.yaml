@@ -1,0 +1,21 @@
+id: '2097526712'
+title: Sum of Square Numbers
+slug: sum-of-square-numbers
+url: https://leetcode.com/problems/sum-of-square-numbers/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-07T05:39:53'
+runtime: 131 ms
+memory: 19.6 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

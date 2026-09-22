@@ -1,0 +1,23 @@
+id: '2110661299'
+title: All Nodes Distance K in Binary Tree
+slug: all-nodes-distance-k-in-binary-tree
+url: https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Tree / Binary Tree
+- Graph
+- Hash Map / Set
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-17T20:37:27'
+runtime: 51 ms
+memory: 19.4 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

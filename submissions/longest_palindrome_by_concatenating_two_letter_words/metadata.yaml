@@ -1,0 +1,21 @@
+id: '1644458585'
+title: Longest Palindrome by Concatenating Two Letter Words
+slug: longest-palindrome-by-concatenating-two-letter-words
+url: https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2025-05-25T22:13:10'
+runtime: 71 ms
+memory: 35.6 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

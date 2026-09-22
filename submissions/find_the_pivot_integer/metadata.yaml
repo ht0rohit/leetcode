@@ -1,0 +1,21 @@
+id: '2044232731'
+title: Find the Pivot Integer
+slug: find-the-pivot-integer
+url: https://leetcode.com/problems/find-the-pivot-integer/
+difficulty: Easy
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-06-24T06:31:07'
+runtime: 7 ms
+memory: 19.2 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

@@ -1,0 +1,22 @@
+id: '2069955674'
+title: Jump Game III
+slug: jump-game-iii
+url: https://leetcode.com/problems/jump-game-iii/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- DFS / Graph Traversal
+- Hash Map / Set
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-16T14:11:01'
+runtime: 11 ms
+memory: 39 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

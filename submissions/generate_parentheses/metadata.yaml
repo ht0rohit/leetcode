@@ -1,0 +1,21 @@
+id: '2101577814'
+title: Generate Parentheses
+slug: generate-parentheses
+url: https://leetcode.com/problems/generate-parentheses/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Backtracking
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-10T13:24:43'
+runtime: 0 ms
+memory: 19.5 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

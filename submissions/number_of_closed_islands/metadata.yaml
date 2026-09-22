@@ -1,0 +1,21 @@
+id: '2069134062'
+title: Number of Closed Islands
+slug: number-of-closed-islands
+url: https://leetcode.com/problems/number-of-closed-islands/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- BFS / Graph Traversal
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-15T21:20:52'
+runtime: 3 ms
+memory: 19.7 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

@@ -1,0 +1,21 @@
+id: '2070381981'
+title: Map of Highest Peak
+slug: map-of-highest-peak
+url: https://leetcode.com/problems/map-of-highest-peak/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- BFS / Graph Traversal
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-16T20:08:05'
+runtime: 673 ms
+memory: 75.1 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

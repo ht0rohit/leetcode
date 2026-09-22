@@ -1,0 +1,21 @@
+id: '2028756802'
+title: Reverse String
+slug: reverse-string
+url: https://leetcode.com/problems/reverse-string/
+difficulty: Easy
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-06-10T15:03:19'
+runtime: 0 ms
+memory: 23.5 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

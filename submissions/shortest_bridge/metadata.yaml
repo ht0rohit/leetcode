@@ -1,0 +1,22 @@
+id: '2078715300'
+title: Shortest Bridge
+slug: shortest-bridge
+url: https://leetcode.com/problems/shortest-bridge/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- BFS / Graph Traversal
+- DFS / Graph Traversal
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-23T17:15:43'
+runtime: 61 ms
+memory: 22.7 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

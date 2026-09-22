@@ -1,0 +1,21 @@
+id: '2133709806'
+title: Corporate Flight Bookings
+slug: corporate-flight-bookings
+url: https://leetcode.com/problems/corporate-flight-bookings/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-09-07T09:17:25'
+runtime: 16 ms
+memory: 31 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

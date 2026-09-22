@@ -1,0 +1,21 @@
+id: '2100105713'
+title: Range Sum Query 2D - Immutable
+slug: range-sum-query-2d-immutable
+url: https://leetcode.com/problems/range-sum-query-2d-immutable/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-09T08:24:31'
+runtime: 105 ms
+memory: 32.2 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

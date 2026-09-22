@@ -1,0 +1,21 @@
+id: '2117068291'
+title: Binary Subarrays With Sum
+slug: binary-subarrays-with-sum
+url: https://leetcode.com/problems/binary-subarrays-with-sum/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Sliding Window
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-23T07:29:39'
+runtime: 27 ms
+memory: 20 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

@@ -1,0 +1,21 @@
+id: '2090798936'
+title: Count of Unfinished Tasks After Each Shift
+slug: count-of-unfinished-tasks-after-each-shift
+url: https://leetcode.com/problems/count-of-unfinished-tasks-after-each-shift/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-02T03:36:17'
+runtime: 95 ms
+memory: 46.5 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

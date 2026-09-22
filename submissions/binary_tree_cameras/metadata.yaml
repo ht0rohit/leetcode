@@ -1,0 +1,21 @@
+id: '2077938172'
+title: Binary Tree Cameras
+slug: binary-tree-cameras
+url: https://leetcode.com/problems/binary-tree-cameras/
+difficulty: Hard
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Tree / Binary Tree
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-23T05:41:00'
+runtime: 0 ms
+memory: 19.6 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

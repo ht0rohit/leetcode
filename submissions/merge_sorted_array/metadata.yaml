@@ -1,0 +1,21 @@
+id: '2075488427'
+title: Merge Sorted Array
+slug: merge-sorted-array
+url: https://leetcode.com/problems/merge-sorted-array/
+difficulty: Easy
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-21T07:25:59'
+runtime: 1 ms
+memory: 19.3 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

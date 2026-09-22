@@ -1,0 +1,21 @@
+id: '2093088121'
+title: Minimum Window Substring
+slug: minimum-window-substring
+url: https://leetcode.com/problems/minimum-window-substring/
+difficulty: Hard
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Hash Map / Set
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-03T18:26:14'
+runtime: 76 ms
+memory: 19.8 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

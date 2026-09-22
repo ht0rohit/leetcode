@@ -1,0 +1,21 @@
+id: '2033889951'
+title: Reverse Linked List
+slug: reverse-linked-list
+url: https://leetcode.com/problems/reverse-linked-list/
+difficulty: Easy
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Linked List
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-06-15T11:46:43'
+runtime: 0 ms
+memory: 20.5 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

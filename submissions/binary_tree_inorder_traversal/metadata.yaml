@@ -1,0 +1,21 @@
+id: '2053705730'
+title: Binary Tree Inorder Traversal
+slug: binary-tree-inorder-traversal
+url: https://leetcode.com/problems/binary-tree-inorder-traversal/
+difficulty: Easy
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Tree / Binary Tree
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-02T15:50:57'
+runtime: 0 ms
+memory: 19.2 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

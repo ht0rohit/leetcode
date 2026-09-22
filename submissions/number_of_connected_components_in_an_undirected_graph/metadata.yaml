@@ -1,0 +1,22 @@
+id: '2079436265'
+title: Number of Connected Components in an Undirected Graph
+slug: number-of-connected-components-in-an-undirected-graph
+url: https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Union-Find
+- Hash Map / Set
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-24T10:13:54'
+runtime: 3 ms
+memory: 20.4 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

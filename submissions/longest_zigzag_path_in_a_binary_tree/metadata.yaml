@@ -1,0 +1,22 @@
+id: '2112662195'
+title: Longest ZigZag Path in a Binary Tree
+slug: longest-zigzag-path-in-a-binary-tree
+url: https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- DFS / Graph Traversal
+- Tree / Binary Tree
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-19T12:19:22'
+runtime: 56 ms
+memory: 37.8 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

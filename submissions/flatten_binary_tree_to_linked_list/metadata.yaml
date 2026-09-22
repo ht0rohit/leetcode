@@ -1,0 +1,22 @@
+id: '2112729910'
+title: Flatten Binary Tree to Linked List
+slug: flatten-binary-tree-to-linked-list
+url: https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- DFS / Graph Traversal
+- Tree / Binary Tree
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-19T13:29:00'
+runtime: 0 ms
+memory: 19.6 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

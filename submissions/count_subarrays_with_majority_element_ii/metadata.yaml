@@ -1,0 +1,21 @@
+id: '2127105274'
+title: Count Subarrays With Majority Element II
+slug: count-subarrays-with-majority-element-ii
+url: https://leetcode.com/problems/count-subarrays-with-majority-element-ii/
+difficulty: Hard
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-09-01T10:31:34'
+runtime: 63 ms
+memory: 33.6 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

@@ -1,0 +1,21 @@
+id: '2125140515'
+title: Squares of a Sorted Array
+slug: squares-of-a-sorted-array
+url: https://leetcode.com/problems/squares-of-a-sorted-array/
+difficulty: Easy
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-30T14:41:30'
+runtime: 11 ms
+memory: 20.9 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

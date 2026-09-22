@@ -1,0 +1,21 @@
+id: '2086519733'
+title: Walls and Gates
+slug: walls-and-gates
+url: https://leetcode.com/problems/walls-and-gates/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- BFS / Graph Traversal
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-29T17:43:34'
+runtime: 55 ms
+memory: 22.6 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

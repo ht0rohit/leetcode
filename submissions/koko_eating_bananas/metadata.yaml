@@ -1,0 +1,21 @@
+id: '2085735996'
+title: Koko Eating Bananas
+slug: koko-eating-bananas
+url: https://leetcode.com/problems/koko-eating-bananas/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-29T06:54:56'
+runtime: 156 ms
+memory: 20.7 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

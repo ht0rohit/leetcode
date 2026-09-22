@@ -1,0 +1,21 @@
+id: '2061283373'
+title: Path Existence Queries in a Graph I
+slug: path-existence-queries-in-a-graph-i
+url: https://leetcode.com/problems/path-existence-queries-in-a-graph-i/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-09T05:29:50'
+runtime: 87 ms
+memory: 49.6 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

@@ -1,0 +1,21 @@
+id: '2114819523'
+title: House Robber II
+slug: house-robber-ii
+url: https://leetcode.com/problems/house-robber-ii/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-21T08:06:34'
+runtime: 1 ms
+memory: 19.5 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

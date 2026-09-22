@@ -1,0 +1,21 @@
+id: '2073410622'
+title: Move Zeroes
+slug: move-zeroes
+url: https://leetcode.com/problems/move-zeroes/
+difficulty: Easy
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-19T11:44:14'
+runtime: 7 ms
+memory: 20.6 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

@@ -1,0 +1,21 @@
+id: '2074964191'
+title: 4Sum
+slug: 4sum
+url: https://leetcode.com/problems/4sum/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Binary Search
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-20T18:13:30'
+runtime: 411 ms
+memory: 19.4 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

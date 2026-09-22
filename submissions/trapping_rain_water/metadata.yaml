@@ -1,0 +1,21 @@
+id: '2129684986'
+title: Trapping Rain Water
+slug: trapping-rain-water
+url: https://leetcode.com/problems/trapping-rain-water/
+difficulty: Hard
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-09-03T14:06:09'
+runtime: 11 ms
+memory: 21.2 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

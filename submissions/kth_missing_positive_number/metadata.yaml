@@ -1,0 +1,21 @@
+id: '2057920032'
+title: Kth Missing Positive Number
+slug: kth-missing-positive-number
+url: https://leetcode.com/problems/kth-missing-positive-number/
+difficulty: Easy
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-06T10:38:42'
+runtime: 0 ms
+memory: 19.2 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

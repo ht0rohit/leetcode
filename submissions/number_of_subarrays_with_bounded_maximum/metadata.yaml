@@ -1,0 +1,21 @@
+id: '2120625568'
+title: Number of Subarrays with Bounded Maximum
+slug: number-of-subarrays-with-bounded-maximum
+url: https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-26T09:31:35'
+runtime: 33 ms
+memory: 25.7 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

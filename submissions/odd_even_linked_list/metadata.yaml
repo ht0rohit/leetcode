@@ -1,0 +1,21 @@
+id: '2104672994'
+title: Odd Even Linked List
+slug: odd-even-linked-list
+url: https://leetcode.com/problems/odd-even-linked-list/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Linked List
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-12T19:04:11'
+runtime: 0 ms
+memory: 21.1 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

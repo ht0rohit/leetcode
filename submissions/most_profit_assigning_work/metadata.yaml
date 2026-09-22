@@ -1,0 +1,21 @@
+id: '2098330595'
+title: Most Profit Assigning Work
+slug: most-profit-assigning-work
+url: https://leetcode.com/problems/most-profit-assigning-work/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-07T18:11:55'
+runtime: 132 ms
+memory: 22.3 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

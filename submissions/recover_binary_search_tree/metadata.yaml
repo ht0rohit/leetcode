@@ -1,0 +1,21 @@
+id: '2122927942'
+title: Recover Binary Search Tree
+slug: recover-binary-search-tree
+url: https://leetcode.com/problems/recover-binary-search-tree/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Tree / Binary Tree
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-28T13:52:19'
+runtime: 0 ms
+memory: 20.2 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

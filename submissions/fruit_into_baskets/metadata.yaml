@@ -1,0 +1,21 @@
+id: '2093923841'
+title: Fruit Into Baskets
+slug: fruit-into-baskets
+url: https://leetcode.com/problems/fruit-into-baskets/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-04T11:51:20'
+runtime: 185 ms
+memory: 25.7 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

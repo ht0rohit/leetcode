@@ -1,0 +1,21 @@
+id: '2101795478'
+title: Letter Combinations of a Phone Number
+slug: letter-combinations-of-a-phone-number
+url: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-10T16:17:26'
+runtime: 0 ms
+memory: 19.4 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

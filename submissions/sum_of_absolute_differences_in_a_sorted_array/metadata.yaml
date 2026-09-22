@@ -1,0 +1,21 @@
+id: '2100057890'
+title: Sum of Absolute Differences in a Sorted Array
+slug: sum-of-absolute-differences-in-a-sorted-array
+url: https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-09T07:29:49'
+runtime: 585 ms
+memory: 35 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

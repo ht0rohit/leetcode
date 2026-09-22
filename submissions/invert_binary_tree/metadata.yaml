@@ -1,0 +1,21 @@
+id: '2053737965'
+title: Invert Binary Tree
+slug: invert-binary-tree
+url: https://leetcode.com/problems/invert-binary-tree/
+difficulty: Easy
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Tree / Binary Tree
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-02T16:19:04'
+runtime: 0 ms
+memory: 19.3 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

@@ -1,0 +1,21 @@
+id: '2132691587'
+title: Stone Game
+slug: stone-game
+url: https://leetcode.com/problems/stone-game/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Dynamic Programming
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-09-06T09:44:43'
+runtime: 95 ms
+memory: 25.4 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

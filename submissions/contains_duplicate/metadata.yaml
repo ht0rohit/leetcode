@@ -1,0 +1,21 @@
+id: '2023177232'
+title: Contains Duplicate
+slug: contains-duplicate
+url: https://leetcode.com/problems/contains-duplicate/
+difficulty: Easy
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Hash Map / Set
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-06-05T10:28:53'
+runtime: 10 ms
+memory: 32.1 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

@@ -1,0 +1,21 @@
+id: '2102816421'
+title: Maximum Size Subarray Sum Equals k
+slug: maximum-size-subarray-sum-equals-k
+url: https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-11T12:37:08'
+runtime: 146 ms
+memory: 67.5 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

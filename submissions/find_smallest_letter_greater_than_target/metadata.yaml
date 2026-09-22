@@ -1,0 +1,21 @@
+id: '2080085706'
+title: Find Smallest Letter Greater Than Target
+slug: find-smallest-letter-greater-than-target
+url: https://leetcode.com/problems/find-smallest-letter-greater-than-target/
+difficulty: Easy
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-24T21:36:10'
+runtime: 0 ms
+memory: 20.6 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

@@ -1,0 +1,21 @@
+id: '2070390437'
+title: Shortest Path in Binary Matrix
+slug: shortest-path-in-binary-matrix
+url: https://leetcode.com/problems/shortest-path-in-binary-matrix/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-16T20:23:51'
+runtime: 219 ms
+memory: 19.7 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

@@ -1,0 +1,21 @@
+id: '2087194287'
+title: Minimum Number of Pushes to Type Word I
+slug: minimum-number-of-pushes-to-type-word-i
+url: https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/
+difficulty: Easy
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-30T08:20:14'
+runtime: 0 ms
+memory: 19 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

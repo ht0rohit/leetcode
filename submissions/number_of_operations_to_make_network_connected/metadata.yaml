@@ -1,0 +1,21 @@
+id: '2110595792'
+title: Number of Operations to Make Network Connected
+slug: number-of-operations-to-make-network-connected
+url: https://leetcode.com/problems/number-of-operations-to-make-network-connected/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Union-Find
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-17T19:03:37'
+runtime: 31 ms
+memory: 33.6 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

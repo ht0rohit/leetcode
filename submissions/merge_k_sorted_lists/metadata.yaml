@@ -1,0 +1,21 @@
+id: '2112379936'
+title: Merge k Sorted Lists
+slug: merge-k-sorted-lists
+url: https://leetcode.com/problems/merge-k-sorted-lists/
+difficulty: Hard
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Linked List
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-19T07:16:25'
+runtime: 873 ms
+memory: 22.6 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

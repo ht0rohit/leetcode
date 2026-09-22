@@ -1,0 +1,21 @@
+id: '2097184021'
+title: Longest Palindrome
+slug: longest-palindrome
+url: https://leetcode.com/problems/longest-palindrome/
+difficulty: Easy
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-06T18:59:14'
+runtime: 3 ms
+memory: 19.3 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

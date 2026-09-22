@@ -1,0 +1,21 @@
+id: '2073815667'
+title: Max Consecutive Ones
+slug: max-consecutive-ones
+url: https://leetcode.com/problems/max-consecutive-ones/
+difficulty: Easy
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-19T18:27:32'
+runtime: 9 ms
+memory: 21.8 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

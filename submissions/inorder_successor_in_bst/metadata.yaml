@@ -1,0 +1,21 @@
+id: '2108728642'
+title: Inorder Successor in BST
+slug: inorder-successor-in-bst
+url: https://leetcode.com/problems/inorder-successor-in-bst/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Tree / Binary Tree
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-16T08:12:28'
+runtime: 57 ms
+memory: 22.8 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

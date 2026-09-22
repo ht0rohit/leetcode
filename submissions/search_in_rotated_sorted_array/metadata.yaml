@@ -1,0 +1,21 @@
+id: '2082095977'
+title: Search in Rotated Sorted Array
+slug: search-in-rotated-sorted-array
+url: https://leetcode.com/problems/search-in-rotated-sorted-array/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-26T13:43:09'
+runtime: 0 ms
+memory: 19.5 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

@@ -1,0 +1,21 @@
+id: '2127062010'
+title: Minimum Swaps to Group All 1's Together II
+slug: minimum-swaps-to-group-all-1s-together-ii
+url: https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-09-01T09:45:14'
+runtime: 130 ms
+memory: 24.4 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

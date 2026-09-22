@@ -1,0 +1,21 @@
+id: '2081703420'
+title: Find the Index of the Large Integer
+slug: find-the-index-of-the-large-integer
+url: https://leetcode.com/problems/find-the-index-of-the-large-integer/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-26T07:19:04'
+runtime: 165 ms
+memory: 58.2 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

@@ -1,0 +1,21 @@
+id: '2083196449'
+title: Last Stone Weight
+slug: last-stone-weight
+url: https://leetcode.com/problems/last-stone-weight/
+difficulty: Easy
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Heap / Priority Queue
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-27T10:12:02'
+runtime: 0 ms
+memory: 19.5 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

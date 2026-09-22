@@ -1,0 +1,21 @@
+id: '2062911890'
+title: Symmetric Tree
+slug: symmetric-tree
+url: https://leetcode.com/problems/symmetric-tree/
+difficulty: Easy
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Tree / Binary Tree
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-10T13:47:32'
+runtime: 0 ms
+memory: 19.4 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

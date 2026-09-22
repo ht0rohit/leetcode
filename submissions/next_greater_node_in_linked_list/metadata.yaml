@@ -1,0 +1,21 @@
+id: '2097098068'
+title: Next Greater Node In Linked List
+slug: next-greater-node-in-linked-list
+url: https://leetcode.com/problems/next-greater-node-in-linked-list/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Linked List
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-06T17:54:59'
+runtime: 31 ms
+memory: 24.8 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

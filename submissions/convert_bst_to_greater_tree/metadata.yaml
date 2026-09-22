@@ -1,0 +1,21 @@
+id: '2078353438'
+title: Convert BST to Greater Tree
+slug: convert-bst-to-greater-tree
+url: https://leetcode.com/problems/convert-bst-to-greater-tree/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Tree / Binary Tree
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-23T12:06:47'
+runtime: 0 ms
+memory: 21.3 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

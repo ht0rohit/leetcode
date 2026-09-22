@@ -1,0 +1,21 @@
+id: '2041300854'
+title: Maximum Ice Cream Bars
+slug: maximum-ice-cream-bars
+url: https://leetcode.com/problems/maximum-ice-cream-bars/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-06-21T18:14:13'
+runtime: 66 ms
+memory: 30.9 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

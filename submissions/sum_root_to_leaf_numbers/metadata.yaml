@@ -1,0 +1,21 @@
+id: '2078311837'
+title: Sum Root to Leaf Numbers
+slug: sum-root-to-leaf-numbers
+url: https://leetcode.com/problems/sum-root-to-leaf-numbers/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Tree / Binary Tree
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-23T11:19:03'
+runtime: 1 ms
+memory: 19.4 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

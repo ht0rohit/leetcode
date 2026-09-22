@@ -1,0 +1,21 @@
+id: '2086138776'
+title: Minimum Number of Vertices to Reach All Nodes
+slug: minimum-number-of-vertices-to-reach-all-nodes
+url: https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-29T13:07:01'
+runtime: 14 ms
+memory: 45.6 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

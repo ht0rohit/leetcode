@@ -1,0 +1,21 @@
+id: '2137874288'
+title: Coin Change II
+slug: coin-change-ii
+url: https://leetcode.com/problems/coin-change-ii/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Dynamic Programming
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-09-10T18:46:01'
+runtime: 202 ms
+memory: 19.4 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

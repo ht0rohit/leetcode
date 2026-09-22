@@ -1,0 +1,21 @@
+id: '2034957444'
+title: Reorder List
+slug: reorder-list
+url: https://leetcode.com/problems/reorder-list/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Linked List
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-06-16T09:24:15'
+runtime: 0 ms
+memory: 27.9 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

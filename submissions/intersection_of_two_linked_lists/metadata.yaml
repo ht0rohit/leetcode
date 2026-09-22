@@ -1,0 +1,21 @@
+id: '2059132017'
+title: Intersection of Two Linked Lists
+slug: intersection-of-two-linked-lists
+url: https://leetcode.com/problems/intersection-of-two-linked-lists/
+difficulty: Easy
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Linked List
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-07T10:08:25'
+runtime: 118 ms
+memory: 37.9 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

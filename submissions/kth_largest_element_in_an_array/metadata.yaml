@@ -1,0 +1,21 @@
+id: '2106688436'
+title: Kth Largest Element in an Array
+slug: kth-largest-element-in-an-array
+url: https://leetcode.com/problems/kth-largest-element-in-an-array/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-14T14:26:35'
+runtime: 34 ms
+memory: 31.1 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

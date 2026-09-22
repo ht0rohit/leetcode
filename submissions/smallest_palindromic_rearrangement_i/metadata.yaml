@@ -1,0 +1,21 @@
+id: '2084522303'
+title: Smallest Palindromic Rearrangement I
+slug: smallest-palindromic-rearrangement-i
+url: https://leetcode.com/problems/smallest-palindromic-rearrangement-i/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-28T09:20:05'
+runtime: 735 ms
+memory: 21.7 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

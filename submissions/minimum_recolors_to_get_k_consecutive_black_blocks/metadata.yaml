@@ -1,0 +1,21 @@
+id: '2095468183'
+title: Minimum Recolors to Get K Consecutive Black Blocks
+slug: minimum-recolors-to-get-k-consecutive-black-blocks
+url: https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/
+difficulty: Easy
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-05T14:54:27'
+runtime: 0 ms
+memory: 19.4 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

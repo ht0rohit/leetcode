@@ -1,0 +1,21 @@
+id: '2073310185'
+title: Majority Element
+slug: majority-element
+url: https://leetcode.com/problems/majority-element/
+difficulty: Easy
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-19T09:44:59'
+runtime: 7 ms
+memory: 21.1 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

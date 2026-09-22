@@ -1,0 +1,21 @@
+id: '2048156337'
+title: Minimum Path Sum
+slug: minimum-path-sum
+url: https://leetcode.com/problems/minimum-path-sum/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Dynamic Programming
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-06-27T18:19:41'
+runtime: 12 ms
+memory: 21.6 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

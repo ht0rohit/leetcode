@@ -1,0 +1,21 @@
+id: '2093487161'
+title: Longest Substring with At Most K Distinct Characters
+slug: longest-substring-with-at-most-k-distinct-characters
+url: https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-04T05:36:04'
+runtime: 27 ms
+memory: 19.7 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

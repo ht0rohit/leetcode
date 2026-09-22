@@ -1,0 +1,21 @@
+id: '2044350828'
+title: Frequency of the Most Frequent Element
+slug: frequency-of-the-most-frequent-element
+url: https://leetcode.com/problems/frequency-of-the-most-frequent-element/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-06-24T08:23:18'
+runtime: 386 ms
+memory: 30.6 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

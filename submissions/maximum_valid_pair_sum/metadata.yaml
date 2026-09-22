@@ -1,0 +1,21 @@
+id: '2055971713'
+title: Maximum Valid Pair Sum
+slug: maximum-valid-pair-sum
+url: https://leetcode.com/problems/maximum-valid-pair-sum/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-04T15:47:07'
+runtime: 55 ms
+memory: 31.7 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

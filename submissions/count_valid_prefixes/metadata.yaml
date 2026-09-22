@@ -1,0 +1,21 @@
+id: '2090175529'
+title: Count Valid Prefixes
+slug: count-valid-prefixes
+url: https://leetcode.com/problems/count-valid-prefixes/
+difficulty: Easy
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-01T15:18:13'
+runtime: 0 ms
+memory: 19.3 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

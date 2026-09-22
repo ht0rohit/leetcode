@@ -1,0 +1,21 @@
+id: '2127106878'
+title: Sort Array By Parity II
+slug: sort-array-by-parity-ii
+url: https://leetcode.com/problems/sort-array-by-parity-ii/
+difficulty: Easy
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-09-01T10:33:30'
+runtime: 12 ms
+memory: 20.5 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

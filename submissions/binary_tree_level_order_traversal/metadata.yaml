@@ -1,0 +1,21 @@
+id: '2061855927'
+title: Binary Tree Level Order Traversal
+slug: binary-tree-level-order-traversal
+url: https://leetcode.com/problems/binary-tree-level-order-traversal/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Tree / Binary Tree
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-09T14:52:55'
+runtime: 0 ms
+memory: 20 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

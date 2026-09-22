@@ -1,0 +1,21 @@
+id: '2082123946'
+title: Find Minimum in Rotated Sorted Array II
+slug: find-minimum-in-rotated-sorted-array-ii
+url: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
+difficulty: Hard
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-26T14:06:43'
+runtime: 0 ms
+memory: 19.6 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

@@ -1,0 +1,21 @@
+id: '2127100106'
+title: Best Time to Buy and Sell Stock with Transaction Fee
+slug: best-time-to-buy-and-sell-stock-with-transaction-fee
+url: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-09-01T10:25:49'
+runtime: 65 ms
+memory: 26.1 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

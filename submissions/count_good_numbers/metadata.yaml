@@ -1,0 +1,21 @@
+id: '2105302249'
+title: Count Good Numbers
+slug: count-good-numbers
+url: https://leetcode.com/problems/count-good-numbers/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-13T10:29:06'
+runtime: 2 ms
+memory: 19.4 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

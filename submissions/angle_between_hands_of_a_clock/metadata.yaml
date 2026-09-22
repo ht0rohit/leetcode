@@ -1,0 +1,21 @@
+id: '2037205106'
+title: Angle Between Hands of a Clock
+slug: angle-between-hands-of-a-clock
+url: https://leetcode.com/problems/angle-between-hands-of-a-clock/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-06-18T06:49:27'
+runtime: 0 ms
+memory: 19.3 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

@@ -1,0 +1,21 @@
+id: '2065973014'
+title: Binary Tree Maximum Path Sum
+slug: binary-tree-maximum-path-sum
+url: https://leetcode.com/problems/binary-tree-maximum-path-sum/
+difficulty: Hard
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Tree / Binary Tree
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-13T09:57:45'
+runtime: 4 ms
+memory: 23.9 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

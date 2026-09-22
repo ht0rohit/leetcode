@@ -1,0 +1,21 @@
+id: '2117067777'
+title: Count Number of Nice Subarrays
+slug: count-number-of-nice-subarrays
+url: https://leetcode.com/problems/count-number-of-nice-subarrays/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-23T07:29:04'
+runtime: 160 ms
+memory: 23.4 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

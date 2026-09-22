@@ -1,0 +1,21 @@
+id: '2056376853'
+title: Subsequence After One Replacement
+slug: subsequence-after-one-replacement
+url: https://leetcode.com/problems/subsequence-after-one-replacement/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-05T02:52:01'
+runtime: 247 ms
+memory: 20.1 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

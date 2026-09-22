@@ -1,0 +1,21 @@
+id: '2082308611'
+title: Peak Index in a Mountain Array
+slug: peak-index-in-a-mountain-array
+url: https://leetcode.com/problems/peak-index-in-a-mountain-array/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-26T16:39:17'
+runtime: 0 ms
+memory: 31.3 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

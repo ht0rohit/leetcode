@@ -1,0 +1,21 @@
+id: '2056628597'
+title: Number of Paths with Max Score
+slug: number-of-paths-with-max-score
+url: https://leetcode.com/problems/number-of-paths-with-max-score/
+difficulty: Hard
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Dynamic Programming
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-05T07:04:01'
+runtime: 109 ms
+memory: 20.6 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

@@ -1,0 +1,21 @@
+id: '2092485287'
+title: Assign Cookies
+slug: assign-cookies
+url: https://leetcode.com/problems/assign-cookies/
+difficulty: Easy
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-03T10:37:51'
+runtime: 11 ms
+memory: 22.2 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

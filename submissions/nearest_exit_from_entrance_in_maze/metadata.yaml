@@ -1,0 +1,21 @@
+id: '2070346384'
+title: Nearest Exit from Entrance in Maze
+slug: nearest-exit-from-entrance-in-maze
+url: https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- BFS / Graph Traversal
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-16T19:13:55'
+runtime: 91 ms
+memory: 20.8 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

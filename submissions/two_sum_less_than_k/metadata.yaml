@@ -1,0 +1,21 @@
+id: '2061444714'
+title: Two Sum Less Than K
+slug: two-sum-less-than-k
+url: https://leetcode.com/problems/two-sum-less-than-k/
+difficulty: Easy
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Two Pointers
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-09T07:54:51'
+runtime: 0 ms
+memory: 19.3 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

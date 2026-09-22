@@ -1,0 +1,24 @@
+id: '2078566478'
+title: Distance to a Cycle in Undirected Graph
+slug: distance-to-a-cycle-in-undirected-graph
+url: https://leetcode.com/problems/distance-to-a-cycle-in-undirected-graph/
+difficulty: Hard
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- BFS / Graph Traversal
+- DFS / Graph Traversal
+- Graph
+- Hash Map / Set
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-23T15:24:15'
+runtime: 103 ms
+memory: 97.8 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

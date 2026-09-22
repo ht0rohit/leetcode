@@ -1,0 +1,21 @@
+id: '2075741882'
+title: Contains Duplicate II
+slug: contains-duplicate-ii
+url: https://leetcode.com/problems/contains-duplicate-ii/
+difficulty: Easy
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-21T11:27:12'
+runtime: 39 ms
+memory: 39.2 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

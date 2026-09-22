@@ -1,0 +1,21 @@
+id: '2112349612'
+title: Populating Next Right Pointers in Each Node
+slug: populating-next-right-pointers-in-each-node
+url: https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-19T06:48:00'
+runtime: 51 ms
+memory: 20.4 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

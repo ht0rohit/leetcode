@@ -1,0 +1,22 @@
+id: '2071265459'
+title: Course Schedule
+slug: course-schedule
+url: https://leetcode.com/problems/course-schedule/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Graph
+- Hash Map / Set
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-17T15:23:30'
+runtime: 3 ms
+memory: 21.6 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

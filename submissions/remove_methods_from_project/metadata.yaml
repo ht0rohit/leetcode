@@ -1,0 +1,21 @@
+id: '2094908514'
+title: Remove Methods From Project
+slug: remove-methods-from-project
+url: https://leetcode.com/problems/remove-methods-from-project/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Graph
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-05T06:09:38'
+runtime: 428 ms
+memory: 109.7 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

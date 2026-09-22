@@ -1,6 +1,7 @@
 # LeetCode Submissions Extractor
 
-Extract all your accepted LeetCode submissions locally and save them organized by problem.
+Extract the full history of your LeetCode submissions — accepted and failed
+(Wrong Answer, TLE, Runtime Error, etc.) — locally, organized by problem.
 
 ## Setup
 
@@ -22,20 +23,52 @@ Extract all your accepted LeetCode submissions locally and save them organized b
 
 ## Output
 
-The script creates a `submissions/` directory with:
-- **Subdirectories** for each problem (by slug, e.g., `two_sum/`, `longest_substring/`)
-- **solution.<ext>** file containing your accepted code
-- **metadata.json** with problem info, timestamps, runtime, and memory stats
+The script creates a `submissions/` directory with, per problem:
+- **`solution.<ext>`** — your latest *accepted* code (kept for backward
+  compatibility with existing tooling)
+- **`attempts.json`** — every submission on that problem, oldest first, with
+  status (`Accepted`, `Wrong Answer`, `Time Limit Exceeded`, `Runtime Error`,
+  etc.), language, timestamp, runtime, and memory
+- **`attempts/`** — the actual code for every submission, one file per
+  attempt, named `<timestamp>_<status>_<id>.<ext>`
+
+Plus, at the top level:
+- **`metadata.json`** — one entry per problem: its latest accepted
+  submission's info (problem, timestamp, runtime, memory stats)
 
 Example structure:
 ```
 submissions/
 ├── two_sum/
-│   └── solution.py
+│   ├── solution.py
+│   ├── attempts.json
+│   └── attempts/
+│       ├── 20260101_090000_wrong_answer_1111111111.py
+│       └── 20260101_090412_accepted_1111111112.py
 ├── longest_substring_without_repeating_characters/
-│   └── solution.py
+│   ├── solution.py
+│   ├── attempts.json
+│   └── attempts/
+│       └── ...
 └── metadata.json
 ```
+
+Re-running the script is safe and incremental: it skips any submission ID
+already saved in a problem's `attempts.json`, and (for problems extracted
+before this full-history format existed) reuses the already-downloaded
+`solution.py` instead of re-fetching it, so only genuinely new submissions
+cost an API call.
+
+## Related tooling
+
+- `scripts/enrich_metadata.py` regenerates `submissions/<slug>/metadata.yaml`
+  for every problem: heuristic pattern/topic tags from the code, plus (once
+  `attempts.json` exists for a problem) an objective `debugging_history` built
+  from the real recorded submission outcomes — not inferred, since LeetCode
+  actually recorded them. `initial_approach`, `historical_mistakes`, and
+  `hints_used` stay `UNKNOWN` for problems solved before this system existed,
+  since no submission record captures the reasoning behind them. See
+  `CLAUDE.md` for the full coaching workflow for new problems.
 
 ## Security
 

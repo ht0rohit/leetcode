@@ -1,0 +1,21 @@
+id: '2123574521'
+title: Construct Binary Tree from Preorder and Inorder Traversal
+slug: construct-binary-tree-from-preorder-and-inorder-traversal
+url: https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Tree / Binary Tree
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-29T07:17:05'
+runtime: 2 ms
+memory: 20.3 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

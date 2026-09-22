@@ -1,0 +1,21 @@
+id: '2088001641'
+title: Find Right Interval
+slug: find-right-interval
+url: https://leetcode.com/problems/find-right-interval/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-30T19:30:17'
+runtime: 76 ms
+memory: 24.6 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

@@ -1,0 +1,21 @@
+id: '2043347619'
+title: First Bad Version
+slug: first-bad-version
+url: https://leetcode.com/problems/first-bad-version/
+difficulty: Easy
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-06-23T11:56:37'
+runtime: 42 ms
+memory: 19.1 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

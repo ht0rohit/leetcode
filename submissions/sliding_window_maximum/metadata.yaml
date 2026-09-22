@@ -1,0 +1,21 @@
+id: '2097480112'
+title: Sliding Window Maximum
+slug: sliding-window-maximum
+url: https://leetcode.com/problems/sliding-window-maximum/
+difficulty: Hard
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- BFS / Graph Traversal
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-07T04:58:08'
+runtime: 171 ms
+memory: 35.4 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

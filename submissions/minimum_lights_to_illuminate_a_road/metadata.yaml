@@ -1,0 +1,21 @@
+id: '2107805872'
+title: Minimum Lights to Illuminate a Road
+slug: minimum-lights-to-illuminate-a-road
+url: https://leetcode.com/problems/minimum-lights-to-illuminate-a-road/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-15T14:47:38'
+runtime: 319 ms
+memory: 31.4 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

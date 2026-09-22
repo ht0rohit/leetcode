@@ -1,0 +1,21 @@
+id: '2078353064'
+title: Binary Search Tree to Greater Sum Tree
+slug: binary-search-tree-to-greater-sum-tree
+url: https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Tree / Binary Tree
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-23T12:06:23'
+runtime: 0 ms
+memory: 19.5 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

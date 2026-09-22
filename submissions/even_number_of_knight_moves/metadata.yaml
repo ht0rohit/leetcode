@@ -1,0 +1,21 @@
+id: '2072984085'
+title: Even Number of Knight Moves
+slug: even-number-of-knight-moves
+url: https://leetcode.com/problems/even-number-of-knight-moves/
+difficulty: Easy
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-19T03:29:59'
+runtime: 0 ms
+memory: 19.1 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

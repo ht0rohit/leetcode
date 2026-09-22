@@ -1,0 +1,21 @@
+id: '2100577888'
+title: Subarray Product Less Than K
+slug: subarray-product-less-than-k
+url: https://leetcode.com/problems/subarray-product-less-than-k/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-09T16:26:29'
+runtime: 1766 ms
+memory: 332.9 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

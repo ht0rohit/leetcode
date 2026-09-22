@@ -1,0 +1,21 @@
+id: '2064496036'
+title: Maximum Consistent Columns in a Grid
+slug: maximum-consistent-columns-in-a-grid
+url: https://leetcode.com/problems/maximum-consistent-columns-in-a-grid/
+difficulty: Hard
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Dynamic Programming
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-12T03:27:41'
+runtime: 1687 ms
+memory: 25.2 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

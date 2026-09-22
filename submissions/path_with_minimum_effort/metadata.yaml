@@ -1,0 +1,21 @@
+id: '2128395436'
+title: Path With Minimum Effort
+slug: path-with-minimum-effort
+url: https://leetcode.com/problems/path-with-minimum-effort/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Heap / Priority Queue
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-09-02T12:04:04'
+runtime: 259 ms
+memory: 21 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

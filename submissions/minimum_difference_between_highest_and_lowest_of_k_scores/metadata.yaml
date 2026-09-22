@@ -1,0 +1,21 @@
+id: '2089850195'
+title: Minimum Difference Between Highest and Lowest of K Scores
+slug: minimum-difference-between-highest-and-lowest-of-k-scores
+url: https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
+difficulty: Easy
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-01T10:58:52'
+runtime: 3 ms
+memory: 19.4 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

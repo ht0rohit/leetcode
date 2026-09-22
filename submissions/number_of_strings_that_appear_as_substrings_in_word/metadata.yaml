@@ -1,0 +1,21 @@
+id: '2050253613'
+title: Number of Strings That Appear as Substrings in Word
+slug: number-of-strings-that-appear-as-substrings-in-word
+url: https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/
+difficulty: Easy
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-06-29T15:59:10'
+runtime: 0 ms
+memory: 19.4 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

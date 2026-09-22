@@ -1,0 +1,22 @@
+id: '2128544345'
+title: Number of Ways to Arrive at Destination
+slug: number-of-ways-to-arrive-at-destination
+url: https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Heap / Priority Queue
+- Graph
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-09-02T14:32:26'
+runtime: 14 ms
+memory: 25.6 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

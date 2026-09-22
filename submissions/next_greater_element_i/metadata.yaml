@@ -1,0 +1,21 @@
+id: '2098648635'
+title: Next Greater Element I
+slug: next-greater-element-i
+url: https://leetcode.com/problems/next-greater-element-i/
+difficulty: Easy
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-08T05:04:44'
+runtime: 3 ms
+memory: 19.3 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

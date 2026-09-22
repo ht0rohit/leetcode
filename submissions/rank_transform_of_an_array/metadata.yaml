@@ -1,0 +1,21 @@
+id: '2142557016'
+title: Rank Transform of an Array
+slug: rank-transform-of-an-array
+url: https://leetcode.com/problems/rank-transform-of-an-array/
+difficulty: Easy
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-09-15T12:05:13'
+runtime: 61 ms
+memory: 37.5 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

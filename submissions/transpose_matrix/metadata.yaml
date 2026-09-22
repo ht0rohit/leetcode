@@ -1,0 +1,21 @@
+id: '2028525895'
+title: Transpose Matrix
+slug: transpose-matrix
+url: https://leetcode.com/problems/transpose-matrix/
+difficulty: Easy
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-06-10T10:37:30'
+runtime: 3 ms
+memory: 19.9 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

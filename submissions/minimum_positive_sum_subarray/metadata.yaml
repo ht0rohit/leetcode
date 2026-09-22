@@ -1,0 +1,21 @@
+id: '2089499228'
+title: 'Minimum Positive Sum Subarray '
+slug: minimum-positive-sum-subarray
+url: https://leetcode.com/problems/minimum-positive-sum-subarray/
+difficulty: Easy
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-01T05:24:52'
+runtime: 23 ms
+memory: 19.3 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

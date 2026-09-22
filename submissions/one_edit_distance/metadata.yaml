@@ -1,0 +1,21 @@
+id: '2138413744'
+title: One Edit Distance
+slug: one-edit-distance
+url: https://leetcode.com/problems/one-edit-distance/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-09-11T09:47:09'
+runtime: 1 ms
+memory: 19.4 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

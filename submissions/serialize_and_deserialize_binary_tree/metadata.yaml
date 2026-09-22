@@ -1,0 +1,21 @@
+id: '2113860689'
+title: Serialize and Deserialize Binary Tree
+slug: serialize-and-deserialize-binary-tree
+url: https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+difficulty: Hard
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Tree / Binary Tree
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-20T11:26:26'
+runtime: 70 ms
+memory: 23.4 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

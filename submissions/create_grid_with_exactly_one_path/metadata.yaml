@@ -1,0 +1,21 @@
+id: '2040021422'
+title: Create Grid With Exactly One Path
+slug: create-grid-with-exactly-one-path
+url: https://leetcode.com/problems/create-grid-with-exactly-one-path/
+difficulty: Easy
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-06-20T15:52:06'
+runtime: 3 ms
+memory: 19.1 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

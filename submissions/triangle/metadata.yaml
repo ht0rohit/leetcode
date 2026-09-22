@@ -1,0 +1,21 @@
+id: '2143426926'
+title: Triangle
+slug: triangle
+url: https://leetcode.com/problems/triangle/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Dynamic Programming
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-09-16T07:48:45'
+runtime: 4 ms
+memory: 20.1 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

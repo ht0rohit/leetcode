@@ -1,0 +1,21 @@
+id: '2056879587'
+title: Minimum Cost For Tickets
+slug: minimum-cost-for-tickets
+url: https://leetcode.com/problems/minimum-cost-for-tickets/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Dynamic Programming
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-05T12:10:08'
+runtime: 3 ms
+memory: 19.4 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

@@ -1,0 +1,21 @@
+id: '2106581764'
+title: Count Subarrays Where Max Element Appears at Least K Times
+slug: count-subarrays-where-max-element-appears-at-least-k-times
+url: https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-08-14T12:29:07'
+runtime: 84 ms
+memory: 31.6 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

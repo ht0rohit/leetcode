@@ -1,0 +1,21 @@
+id: '2129754469'
+title: Car Fleet
+slug: car-fleet
+url: https://leetcode.com/problems/car-fleet/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-09-03T15:16:15'
+runtime: 218 ms
+memory: 57.7 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

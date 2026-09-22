@@ -1,0 +1,21 @@
+id: '2071489979'
+title: Time Needed to Inform All Employees
+slug: time-needed-to-inform-all-employees
+url: https://leetcode.com/problems/time-needed-to-inform-all-employees/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Graph
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-17T18:37:33'
+runtime: 246 ms
+memory: 41.6 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

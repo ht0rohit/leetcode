@@ -1,0 +1,21 @@
+id: '2074514850'
+title: Rotate Array
+slug: rotate-array
+url: https://leetcode.com/problems/rotate-array/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- UNKNOWN
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-07-20T11:50:34'
+runtime: 19 ms
+memory: 26.5 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN

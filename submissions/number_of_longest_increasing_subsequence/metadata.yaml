@@ -1,0 +1,21 @@
+id: '2141277345'
+title: Number of Longest Increasing Subsequence
+slug: number-of-longest-increasing-subsequence
+url: https://leetcode.com/problems/number-of-longest-increasing-subsequence/
+difficulty: Medium
+topics:
+- UNKNOWN
+solution_language: Python
+pattern:
+- Dynamic Programming
+pattern_source: heuristic-from-code (unverified, review before trusting)
+time_complexity: UNKNOWN
+space_complexity: UNKNOWN
+status: solved
+date_solved: '2026-09-14T06:37:51'
+runtime: 601 ms
+memory: 19.6 MB
+initial_approach: UNKNOWN
+historical_mistakes: UNKNOWN
+debugging_history: UNKNOWN
+hints_used: UNKNOWN
